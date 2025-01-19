@@ -16,6 +16,6 @@
                                                     &kp F    &kp SPACE &kp BSPC  &kp SPACE &kp BSPC &kp F  
                                                              &kp LWIN  &kp LALT  &kp RALT  &kp RWIN
             >;
-        }
+        };
     };
 };

@@ -8,12 +8,12 @@
 
         default_layer {
             bindings = <
-                                 &kp N3    &kp N4                                                            &kp N8    &kp N9
-                &kp ESC   &kp N1 &kp W     &kp E    &kp R    &kp T                         &kp Y    &kp U    &kp I     &kp O     &kp N0    &kp BSPC
-                &kp TAB   &kp Q  &kp S     &kp D    &kp F    &kp G                         &kp H    &kp J    &kp K     &kp L     &kp P     &kp BSLH
-                &kp LCTRL &kp A  &kp X     &kp C    &kp V    &kp B                         &kp N    &kp M    &kp COMMA &kp DOT   &kp SEMI  &kp SQT
-                &kp LSHFT &kp Z  &kp LBKT  &kp RBKT &none    &none                         &none    &none    &kp MINUS &kp MINUS &kp SLASH &kp PLUS
-                                                    &kp FN1  &kp SPACE &kp BSPC  &kp SPACE &kp BSPC &kp FN2
+                                 &kp N2    &kp N3                                                            &kp N8    &kp N9
+                &kp ESC   &kp N1 &kp W     &kp E    &kp N4   &kp N5                        &kp N6   &kp N7   &kp I     &kp O     &kp N0    &kp BSPC
+                &kp TAB   &kp Q  &kp S     &kp D    &kp R    &kp T                         &kp Y    &kp U    &kp K     &kp L     &kp P     &kp BSLH
+                &kp LCTRL &kp A  &kp X     &kp C    &kp F    &kp G                         &kp H    &kp J    &kp COMMA &kp DOT   &kp SEMI  &kp SQT
+                &kp LSHFT &kp Z  &kp LBKT  &kp RBKT &kp V    &kp B                         &kp N    &kp M    &kp MINUS &kp MINUS &kp SLASH &kp PLUS
+                                                    &kp F    &kp SPACE &kp BSPC  &kp SPACE &kp BSPC &kp F  
                                                              &kp LWIN  &kp LALT  &kp RALT  &kp RWIN
             >;
         }

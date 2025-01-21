@@ -14,6 +14,6 @@
         , <&gpio0 11 GPIO_ACTIVE_HIGH> // Col  8 P0.11
         , <&gpio1 40 GPIO_ACTIVE_HIGH> // Col  9 P1.04
         , <&gpio1 6  GPIO_ACTIVE_HIGH> // Col 10 P1.06
-        , <&gpio1 1  GPIO_ACTIVE_HIGH> // Col 11 P1.01
+        , <&gpio0 31 GPIO_ACTIVE_HIGH> // Col 11 P0.31
         ;
 };

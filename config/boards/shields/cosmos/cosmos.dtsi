@@ -38,15 +38,6 @@
             , <&gpio1 13 (GPIO_ACTIVE_HIGH | GPIO_PULL_DOWN)> // Row 4 P1.13
             , <&gpio1 11 (GPIO_ACTIVE_HIGH | GPIO_PULL_DOWN)> // Row 5 P1.11
             ;
-
-        col-gpios
-            = <&gpio0 17 GPIO_ACTIVE_HIGH> // Col 0
-            , <&gpio0 20 GPIO_ACTIVE_HIGH> // Col 1
-            , <&gpio0 22 GPIO_ACTIVE_HIGH> // Col 2
-            , <&gpio0 24 GPIO_ACTIVE_HIGH> // Col 3
-            , <&gpio1 0  GPIO_ACTIVE_HIGH> // Col 4
-            , <&gpio0 11 GPIO_ACTIVE_HIGH> // Col 5
-            ;
     };
 
     layout: layout {

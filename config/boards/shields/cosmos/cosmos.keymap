@@ -41,7 +41,7 @@
                 &kp TAB   &kp Q  S_CTRL    D_LALT   &kp R    &kp T                         &kp Y    &kp U    K_RALT    L_CTRL    &kp P     &kp BSLH
                 &kp LCTRL A_SHFT &kp X     &kp C    F_LGUI   &kp G                         &kp H    J_RGUI   &kp COMMA &kp DOT   S_SHFT    &kp SQT
                 &kp LSHFT &kp Z  &kp LBKT  &kp RBKT &kp V    &kp B                         &kp N    &kp M    &kp MINUS &kp MINUS &kp SLASH &kp PLUS
-                                                    &kp BSPC &kp SPACE &mo 2     &kp SPACE &kp BSPC &kp F  
+                                              &studio_unlock &kp SPACE &mo 2     &kp SPACE &kp BSPC &kp F  
                                                              &kp LWIN  &kp LALT  &kp RALT  &kp RWIN
             >;
         };

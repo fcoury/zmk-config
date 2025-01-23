@@ -1,3 +1,4 @@
+#include <physical_layouts.dtsi>
 #include <dt-bindings/zmk/matrix_transform.h>
 
 / {
@@ -53,5 +54,80 @@
         display-name = "ZMK Cosmos";
         kscan = <&kscan0>;
         transform = <&default_transform>;
+
+        keys //                     w   h    x    y     rot    rx    ry
+           = <&key_physical_attrs 100 100  200    0       0     0     0>  // RC(0,2)
+           , <&key_physical_attrs 100 100  300   12       0     0     0>  // RC(0,3)
+           , <&key_physical_attrs 100 100  800   12       0     0     0>  // RC(0,8) 
+           , <&key_physical_attrs 100 100  900    0       0     0     0>  // RC(0,9)
+
+           // Row 1
+           , <&key_physical_attrs 100 100    0   37       0     0     0>  // RC(0,0)
+           , <&key_physical_attrs 100 100  100   12       0     0     0>  // RC(0,1)
+           , <&key_physical_attrs 100 100  200  100       0     0     0>  // RC(1,2)
+           , <&key_physical_attrs 100 100  300  112       0     0     0>  // RC(1,3)
+           , <&key_physical_attrs 100 100  400   24       0     0     0>  // RC(0,4)
+           , <&key_physical_attrs 100 100  500   24       0     0     0>  // RC(0,5)
+           , <&key_physical_attrs 100 100  700   24       0     0     0>  // RC(0,6)
+           , <&key_physical_attrs 100 100  800  112       0     0     0>  // RC(0,7)
+           , <&key_physical_attrs 100 100  900  100       0     0     0>  // RC(1,8)
+           , <&key_physical_attrs 100 100 1000   12       0     0     0>  // RC(1,9)
+           , <&key_physical_attrs 100 100 1100   37       0     0     0>  // RC(0,10)
+           , <&key_physical_attrs 100 100 1200   37       0     0     0>  // RC(0,11)
+
+           // Row 2
+           , <&key_physical_attrs 100 100    0  137       0     0     0>  // RC(1,0)
+           , <&key_physical_attrs 100 100  100  112       0     0     0>  // RC(1,1)
+           , <&key_physical_attrs 100 100  200  200       0     0     0>  // RC(2,2)
+           , <&key_physical_attrs 100 100  300  212       0     0     0>  // RC(2,3)
+           , <&key_physical_attrs 100 100  400  124       0     0     0>  // RC(1,4)
+           , <&key_physical_attrs 100 100  500  124       0     0     0>  // RC(1,5)
+           , <&key_physical_attrs 100 100  700  124       0     0     0>  // RC(1,6)
+           , <&key_physical_attrs 100 100  800  212       0     0     0>  // RC(1,7)
+           , <&key_physical_attrs 100 100  900  200       0     0     0>  // RC(2,8)
+           , <&key_physical_attrs 100 100 1000  212       0     0     0>  // RC(2,9)
+           , <&key_physical_attrs 100 100 1100  137       0     0     0>  // RC(1,10)
+           , <&key_physical_attrs 100 100 1200  137       0     0     0>  // RC(1,11)
+
+           // Row 3
+           , <&key_physical_attrs 100 100    0  237       0     0     0>  // RC(2,0)
+           , <&key_physical_attrs 100 100  100  212       0     0     0>  // RC(2,1)
+           , <&key_physical_attrs 100 100  200  300       0     0     0>  // RC(3,2)
+           , <&key_physical_attrs 100 100  300  312       0     0     0>  // RC(4,3)
+           , <&key_physical_attrs 100 100  400  224       0     0     0>  // RC(2,4)
+           , <&key_physical_attrs 100 100  500  224       0     0     0>  // RC(2,5)
+           , <&key_physical_attrs 100 100  700  224       0     0     0>  // RC(2,6)
+           , <&key_physical_attrs 100 100  800  312       0     0     0>  // RC(2,7)
+           , <&key_physical_attrs 100 100  900  300       0     0     0>  // RC(3,8)
+           , <&key_physical_attrs 100 100 1000  312       0     0     0>  // RC(3,9)
+           , <&key_physical_attrs 100 100 1100  237       0     0     0>  // RC(2,10)
+           , <&key_physical_attrs 100 100 1200  237       0     0     0>  // RC(2,11)
+
+           // Row 4
+           , <&key_physical_attrs 100 100    0  337       0     0     0>  // RC(3,0)
+           , <&key_physical_attrs 100 100  100  312       0     0     0>  // RC(3,1)
+           , <&key_physical_attrs 100 100  200  400       0     0     0>  // RC(4,2)
+           , <&key_physical_attrs 100 100  300  412       0     0     0>  // RC(4,3)
+           , <&key_physical_attrs 100 100  400  324       0     0     0>  // RC(3,4)
+           , <&key_physical_attrs 100 100  500  324       0     0     0>  // RC(3,5)
+           , <&key_physical_attrs 100 100  700  324       0     0     0>  // RC(3,6)
+           , <&key_physical_attrs 100 100  800  412       0     0     0>  // RC(3,7)
+           , <&key_physical_attrs 100 100  900  400       0     0     0>  // RC(4,8)
+           , <&key_physical_attrs 100 100 1000  412       0     0     0>  // RC(4,9)
+           , <&key_physical_attrs 100 100 1100  337       0     0     0>  // RC(3,10)
+           , <&key_physical_attrs 100 100 1200  337       0     0     0>  // RC(3,11)
+
+           // Thumb cluster
+           , <&key_physical_attrs 100 100  400  424       0     0     0>  // RC(4,4)
+           , <&key_physical_attrs 100 100  500  424       0     0     0>  // RC(4,5)
+           , <&key_physical_attrs 100 100  600  424       0     0     0>  // RC(4,6)
+           , <&key_physical_attrs 100 100  700  424       0     0     0>  // RC(5,3)
+           , <&key_physical_attrs 100 100  800  424       0     0     0>  // RC(5,6)
+           , <&key_physical_attrs 100 100  900  424       0     0     0>  // RC(5,7)
+           , <&key_physical_attrs 100 100  500  524       0     0     0>  // RC(4,8)
+           , <&key_physical_attrs 100 100  600  524       0     0     0>  // RC(4,7)
+           , <&key_physical_attrs 100 100  700  524       0     0     0>  // RC(5,4)
+           , <&key_physical_attrs 100 100  800  524       0     0     0>  // RC(5,5)
+           ;
   };
 };

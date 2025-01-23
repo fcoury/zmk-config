@@ -8,5 +8,8 @@
         , <&gpio0 24 GPIO_ACTIVE_HIGH> // Col 3
         , <&gpio1 0  GPIO_ACTIVE_HIGH> // Col 4
         , <&gpio0 11 GPIO_ACTIVE_HIGH> // Col 5
+        , <&gpio1 4  GPIO_ACTIVE_HIGH> // Col 6
+        , <&gpio1 6  GPIO_ACTIVE_HIGH> // Col 7
+        , <&gpio0 9  GPIO_ACTIVE_HIGH> // Col 8
         ;
 };

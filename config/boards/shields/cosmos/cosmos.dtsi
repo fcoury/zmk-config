@@ -2,8 +2,9 @@
 
 / {
     chosen {
-        zmk,kscan = &kscan0;
-        zmk,matrix_transform = &default_transform;
+        zmk,physical-layout = &layout;
+        // zmk,kscan = &kscan0;
+        // zmk,matrix_transform = &default_transform;
     };
 
     default_transform: keymap_transform_0 {
@@ -46,4 +47,11 @@
             , <&gpio0 11 GPIO_ACTIVE_HIGH> // Col 5
             ;
     };
+
+    layout: layout {
+        compatible = "zmk,physical-layout";
+        display-name = "ZMK Cosmos";
+        kscan = <&kscan0>;
+        transform = <&default_transform>;
+  };
 };

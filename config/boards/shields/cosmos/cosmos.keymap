@@ -50,7 +50,7 @@
             bindings = <
                                       &kp N2    &kp N3                                                            &kp N8    &kp N9
                 &bt BT_CLR     &kp N1 &kp W     &kp E    &kp N4   &kp N5                        &kp N6   &kp N7   &kp I     &kp O     &kp N0    &kp BSPC
-                &studio_unlock &kp Q  S_CTRL    D_LALT   &kp R    &kp T                         &kp Y    &kp U    K_RALT    L_CTRL    &kp P     &kp BSLH
+                &kp TAB        &kp Q  S_CTRL    D_LALT   &kp R    &kp T                         &kp Y    &kp U    K_RALT    L_CTRL    &kp P     &kp BSLH
                 &kp LCTRL      A_SHFT &kp X     &kp C    F_LGUI   &kp G                         &kp H    J_RGUI   &kp COMMA &kp DOT   S_SHFT    &kp SQT
                 &kp LSHFT      &kp Z  &kp LBKT  &kp RBKT &kp V    &kp B                         &kp N    &kp M    &kp MINUS &kp MINUS &kp SLASH &kp PLUS
                                                          &kp BSPC &kp SPACE &kp BSPC  &kp SPACE &kp BSPC &kp F  
@@ -58,12 +58,24 @@
             >;
         };
 
-        extra1 {
-            status = "reserved";
-        };
-
-        extra2 {
-            status = "reserved";
-        };
+        // bt_layer {
+        //     bindings = <
+        //                               &kp N2    &kp N3                                                            &kp N8    &kp N9
+        //         &bt BT_CLR     &kp N1 &kp W     &kp E    &kp N4   &kp N5                        &kp N6   &kp N7   &kp I     &kp O     &kp N0    &kp BSPC
+        //         &studio_unlock &kp Q  S_CTRL    D_LALT   &kp R    &kp T                         &kp Y    &kp U    K_RALT    L_CTRL    &kp P     &kp BSLH
+        //         &kp LCTRL      A_SHFT &kp X     &kp C    F_LGUI   &kp G                         &kp H    J_RGUI   &kp COMMA &kp DOT   S_SHFT    &kp SQT
+        //         &kp LSHFT      &kp Z  &kp LBKT  &kp RBKT &kp V    &kp B                         &kp N    &kp M    &kp MINUS &kp MINUS &kp SLASH &kp PLUS
+        //                                                  &kp BSPC &kp SPACE &kp BSPC  &kp SPACE &kp BSPC &kp F  
+        //                                                           &kp LWIN  &kp LALT  &kp RALT  &kp RWIN
+        //     >;
+        // };
+        //
+        // extra1 {
+        //     status = "reserved";
+        // };
+        //
+        // extra2 {
+        //     status = "reserved";
+        // };
     };
 };

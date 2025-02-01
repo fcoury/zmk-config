@@ -61,7 +61,7 @@
                         bindings = <
    &kp GRAVE &kp F1  &kp F2  &kp F3  &kp F4   &kp F5           &kp F6    &kp F7     &kp F8     &kp F9    &kp F10   &trans
    &trans    &trans  &trans  &trans  &trans   &trans           &trans    &trans     &trans     &trans    &trans    &trans
-   &trans    &trans  &trans  &trans  &trans   &trans           &trans    &kp EQUAL  &kp MINUS  &trans    &trans    &trans
+   &trans    &trans  &trans  &trans  &trans   &trans           &trans    &kp EQUAL  &kp MINUS  &trans    &kp APOS  &trans
    &trans    &trans  &trans  &trans  &trans   &trans           &trans    &trans     &kp LBKT   &kp RBKT  &kp BSLH  &trans
    &trans    &trans  &trans  &trans  &trans   &trans           &trans    &trans     &trans     &trans    &trans    &trans
                         >;

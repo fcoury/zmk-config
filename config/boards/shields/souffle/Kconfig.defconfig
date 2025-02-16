@@ -1,0 +1,16 @@
+if SHIELD_SOUFFLE_LEFT
+
+config ZMK_KEYBOARD_NAME
+    default "Souffle"
+
+config ZMK_SPLIT_ROLE_CENTRAL
+    default y
+
+endif
+
+if SHIELD_SOUFFLE_LEFT || SHIELD_SOUFFLE_RIGHT
+
+config ZMK_SPLIT
+    default y
+
+endif

@@ -1,0 +1,6 @@
+config SHIELD_SOUFFLE_LEFT
+    def_bool $(shields_list_contains,souffle_left)
+
+config SHIELD_SOUFFLE_RIGHT
+    def_bool $(shields_list_contains,souffle_right)
+

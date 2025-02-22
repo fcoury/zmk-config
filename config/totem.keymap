@@ -30,36 +30,36 @@
 };
 
 / {
-    //  combos {
-    //         compatible = "zmk,combos";
-    //         combo_esc {
-    //             timeout-ms = <50>;
-    //             key-positions = <0 1>;
-    //             bindings = <&kp ESC>;
-    //         };
+     combos {
+            compatible = "zmk,combos";
+            combo_esc {
+                timeout-ms = <50>;
+                key-positions = <0 1>;
+                bindings = <&kp ESC>;
+            };
     //         combo_tvp {
     //             timeout-ms = <100>;
     //             key-positions = <11 12 13>;
     //             bindings = <&tog TVP1>;
     //         };
-    // };
-
-    macros {
-        gif: gif {
-            label = "giphy";
-            compatible = "zmk,behavior-macro";
-            #binding-cells = <0>;
-            bindings =
-                <&macro_press>,
-                <&kp LSHFT>,
-                <&macro_tap>,
-                <&kp N2>,
-                <&macro_release>,
-                <&kp LSHFT>,
-                <&macro_tap>,
-                <&kp G &kp I &kp F>;
-        };
     };
+
+    // macros {
+    //     gif: gif {
+    //         label = "giphy";
+    //         compatible = "zmk,behavior-macro";
+    //         #binding-cells = <0>;
+    //         bindings =
+    //             <&macro_press>,
+    //             <&kp LSHFT>,
+    //             <&macro_tap>,
+    //             <&kp N2>,
+    //             <&macro_release>,
+    //             <&kp LSHFT>,
+    //             <&macro_tap>,
+    //             <&kp G &kp I &kp F>;
+    //     };
+    // };
 
     keymap {
         compatible = "zmk,keymap";
@@ -138,7 +138,7 @@
         &kp EXCL    &kp AT        &kp HASH      &kp DLLR  &kp PRCNT    &kp CARET  &kp AMPS  &kp GRAVE  &kp SQT  &kp TILDE
         &kp C_MUTE  &kp C_VOL_DN  &kp C_VOL_UP  &kp C_PP  &trans       &trans     &trans    &trans     &trans   &trans
 &trans  &trans      &trans        &trans        &trans    &trans       &trans     &trans    &trans     &trans   &kp BSLH   &trans
-                                  &trans        &gif      &mo ADJ      &trans     &trans    &trans
+                                  &trans        &trans    &mo ADJ      &trans     &trans    &trans
             >;
         };
 

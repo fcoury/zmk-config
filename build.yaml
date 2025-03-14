@@ -1,10 +1,10 @@
 ---
 include:
-  # Zeph
+  # Knuckles
   - board: nice_nano_v2
-    shield: zeph_left
+    shield: knuckles_left
   - board: nice_nano_v2
-    shield: zeph_right
+    shield: knuckles_right
 
   # Cosmos
   - board: nice_nano_v2

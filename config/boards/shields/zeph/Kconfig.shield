@@ -1,6 +1,0 @@
-config SHIELD_ZEPH_LEFT
-    def_bool $(shields_list_contains,zeph_left)
-
-config SHIELD_ZEPH_RIGHT
-    def_bool $(shields_list_contains,zeph_right)
-

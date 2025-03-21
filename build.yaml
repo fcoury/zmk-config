@@ -1,5 +1,11 @@
 ---
 include:
+  # Knuckles
+  - board: nice_nano_v2
+    shield: knuckles_left
+  - board: nice_nano_v2
+    shield: knuckles_right
+
   # Cosmos
   - board: nice_nano_v2
     shield: cosmos_left

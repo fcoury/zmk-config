@@ -44,3 +44,7 @@ include:
   - board: seeeduino_xiao_ble
     shield: totem_right
     # there is no settingsreset (needed) for the XIAO
+
+  # HolyKeebs TPS43 touchpad-only test target (Nice!Nano v2 / nRF Pro Micro)
+  - board: nice_nano_v2
+    shield: holykeebs_tps43

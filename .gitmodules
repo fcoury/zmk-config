@@ -1,0 +1,3 @@
+[submodule "zmk-driver-azoteq-iqs5xx"]
+	path = zmk-driver-azoteq-iqs5xx
+	url = git@github.com:fcoury/zmk-driver-azoteq-iqs5xx.git

@@ -6,9 +6,11 @@
 
 / {
 	chosen {
-		zmk,kscan = &kscan0;
+		// zmk,kscan = &kscan0;
+        zmk,kscan = &kscan_direct;
 		zmk,matrix_transform = &tps43_transform;
 		zmk,input = &tps43_listener;
+		zephyr,console = &cdc_acm_uart;
 	};
 
 	tps43_listener: tps43_listener {
@@ -30,6 +32,15 @@
 		events = <ZMK_MOCK_PRESS(0, 0, 100)>;
 	};
 
+    kscan_direct: kscan_direct {
+        compatible = "zmk,kscan-gpio-direct";
+        wakeup-source;
+
+        input-gpios
+        = <&gpio1 4 (GPIO_ACTIVE_LOW | GPIO_PULL_UP)>;
+
+    };
+
 	keymap {
 		compatible = "zmk,keymap";
 
@@ -41,22 +52,40 @@
 	};
 };
 
+&zephyr_udc0 {
+	cdc_acm_uart: cdc_acm_uart {
+		compatible = "zephyr,cdc-acm-uart";
+		label = "CDC_ACM_0";
+		status = "okay";
+	};
+};
+
 &pro_micro_i2c {
 	status = "okay";
-	clock-frequency = <I2C_BITRATE_FAST>;
+	// clock-frequency = <I2C_BITRATE_FAST>;
 
 	tps43: iqs5xx@74 {
 		status = "okay";
 		compatible = "azoteq,iqs5xx";
 		reg = <0x74>;
 
-		reset-gpios = <&pro_micro 14 GPIO_ACTIVE_LOW>;
-		rdy-gpios = <&pro_micro 15 GPIO_ACTIVE_HIGH>;
+		rdy-gpios = <&pro_micro 2 GPIO_ACTIVE_HIGH>;
+		rotation = <270>;
+		flip-y;
 
+		// event-mode;
 		one-finger-tap;
 		two-finger-tap;
 		press-and-hold;
 		scroll;
+		natural-scroll-x;
 		natural-scroll-y;
+		// idle-timeout-disable;
+		reati;
+		report-rate-active = <10>;
+		report-rate-idle = <10>;
+		report-rate-idle-touch = <10>;
+		resolution-x = <2048>;
+		resolution-y = <1792>;
 	};
 };

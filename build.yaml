@@ -6,6 +6,12 @@ include:
   - board: nice_nano_v2
     shield: knuckles_right
 
+  # Knuckles + TPS43
+  - board: nice_nano_v2
+    shield: knuckles_tps43_left
+  - board: nice_nano_v2
+    shield: knuckles_tps43_right
+
   # Cosmos
   - board: nice_nano_v2
     shield: cosmos_left

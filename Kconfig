@@ -1,0 +1,17 @@
+menuconfig KNUCKLES_TPS43_IDLE_POLLING
+    bool "Diagnostic TPS43 polling that follows ZMK activity"
+    depends on SHIELD_KNUCKLES_TPS43_RIGHT
+    depends on INPUT_AZOTEQ_IQS5XX
+    default n
+    help
+      Keep normal polling while active and reduce I2C polling while idle.
+      This does not configure the sensor's own power modes.
+
+if KNUCKLES_TPS43_IDLE_POLLING
+
+config KNUCKLES_TPS43_IDLE_POLL_INTERVAL_MS
+    int "TPS43 polling interval while ZMK is idle (milliseconds)"
+    range 20 1000
+    default 250
+
+endif

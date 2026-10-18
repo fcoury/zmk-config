@@ -52,3 +52,60 @@ raw I2C diagnosis; it is not a daily-use firmware.
 Bluetooth slots are selected by holding the far-right bottom letter-row key
 (apostrophe on the base layer) and pressing a number key from 1 to 5. Choose an
 unused slot to pair a new host without replacing an existing pairing.
+
+## TPS43 idle polling diagnostic
+
+The opt-in right-hand test uses the existing 12 ms polling while ZMK is active,
+and 250 ms polling after the usual 30 seconds without keys or reported pointer
+input. Key activity changes ZMK back to active and requests an immediate poll.
+Pointer input also restores the active rate; first pointer response after idle
+can take roughly 250 ms plus sensor/communication latency. This build retains
+15-minute keyboard deep sleep, the existing keymap, BLE identity and sensor
+configuration. USB logging stays disabled for a comparable battery test.
+
+This tests polling overhead. It does not suspend the TPS43 or switch off its
+supply, and it does not establish lower deep-sleep current. Touch-to-wake from
+keyboard deep sleep is not added; press a keyboard key to wake as usual.
+
+Use a separate driver checkout/build directory for this experiment. In a local
+west workspace containing the pinned dependencies, first run `west zephyr-export`,
+then build (replace both absolute config paths):
+
+```sh
+west build -s zmk/app -d build/knuckles_tps43_right_idle_test -b nice_nano_v2 -- \
+  -DZMK_CONFIG=/absolute/path/to/zmk-config/config \
+  -DZMK_EXTRA_MODULES=/absolute/path/to/zmk-config \
+  -DSHIELD=knuckles_tps43_right \
+  -DEXTRA_CONF_FILE=/absolute/path/to/zmk-config/config/knuckles_tps43_idle_test.conf
+```
+
+Omit `EXTRA_CONF_FILE` and use a different build directory for normal firmware.
+The default build matrix does not enable this diagnostic. Both driver patches
+are checked before applying and tolerate reconfiguration of an already patched
+checkout. The idle patch's hooks compile only when the diagnostic is enabled.
+
+After both builds, validate the configuration difference, compiled hooks and
+UF2 family/application boundaries:
+
+```sh
+python3 scripts/check-idle-builds.py build/right-normal build/knuckles_tps43_right_idle_test
+```
+
+### On-device check and comparison
+
+1. Flash only the right-hand diagnostic UF2 using its existing bootloader.
+   Leave the left firmware and Bluetooth bonds in place; do not flash settings reset.
+2. Confirm right/left keys, mouse movement, tap, hold/drag and scrolling still work.
+3. Leave both halves untouched for at least 35 seconds. Try pointer movement
+   first, then repeat with a quick tap first: check that the initial action is
+   recognized and normal responsiveness returns. Repeat with a keypress first.
+4. Unplug USB and leave idle over 16 minutes. Press a key to wake, then verify
+   keys and pointing again. Also test after disconnecting/reconnecting the host.
+5. Compare equal unplugged idle periods starting from full charge with the
+   normal firmware and this diagnostic, under the same host/split conditions.
+   Prefer battery-current measurements; voltage-based percentages are approximate.
+6. Restore the normal right-hand UF2 if input behavior regresses.
+
+Compilation/configuration checks do not verify this hardware sequence or battery
+savings. If drain persists, measure current with the touchpad powered versus
+physically disconnected, then investigate sensor suspend or its power rail.

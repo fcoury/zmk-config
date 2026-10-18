@@ -1,0 +1,45 @@
+--- a/drivers/input/iqs5xx.c
++++ b/drivers/input/iqs5xx.c
+@@ -15,6 +15,10 @@
+ #include <zephyr/logging/log.h>
+
+ #include "iqs5xx.h"
++
++#if IS_ENABLED(CONFIG_KNUCKLES_TPS43_IDLE_POLLING)
++#include <knuckles/tps43_idle_polling.h>
++#endif
+
+ LOG_MODULE_REGISTER(iqs5xx, CONFIG_INPUT_LOG_LEVEL);
+
+@@ -252,11 +256,27 @@
+ static void iqs5xx_poll_handler(struct k_work *work) {
+     struct k_work_delayable *dwork = k_work_delayable_from_work(work);
+     struct iqs5xx_data *data = CONTAINER_OF(dwork, struct iqs5xx_data, poll_work);
+-
++    uint32_t interval = CONFIG_INPUT_AZOTEQ_IQS5XX_POLL_INTERVAL_MS;
++
++#if IS_ENABLED(CONFIG_KNUCKLES_TPS43_IDLE_POLLING)
++    interval = knuckles_tps43_poll_interval_ms();
++#endif
+     k_work_submit(&data->work);
+-    k_work_schedule(&data->poll_work,
+-                    K_MSEC(CONFIG_INPUT_AZOTEQ_IQS5XX_POLL_INTERVAL_MS));
+-}
++    // schedule (not reschedule) preserves an immediate wake poll requested
++    // concurrently by the ZMK activity listener.
++    k_work_schedule(&data->poll_work, K_MSEC(interval));
++}
++
++#if IS_ENABLED(CONFIG_KNUCKLES_TPS43_IDLE_POLLING)
++void knuckles_tps43_poll_now(const struct device *dev) {
++    const struct iqs5xx_config *config = dev->config;
++    struct iqs5xx_data *data = dev->data;
++
++    if (data->initialized && !config->rdy_gpio.port) {
++        k_work_reschedule(&data->poll_work, K_NO_WAIT);
++    }
++}
++#endif
+
+ static int iqs5xx_setup_device(const struct device *dev) {
+     const struct iqs5xx_config *config = dev->config;

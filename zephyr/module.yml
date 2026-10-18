@@ -1,3 +1,5 @@
+name: knuckles-config-fixes
 build:
+  cmake: .
   settings:
     board_root: .

@@ -1,7 +1,8 @@
 .DS_Store
 .west
 build
-zephyr
+/zephyr/*
+!/zephyr/module.yml
 zmk
 modules
 *.uf2

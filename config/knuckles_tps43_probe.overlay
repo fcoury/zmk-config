@@ -1,0 +1,3 @@
+&tps43 {
+    status = "disabled";
+};

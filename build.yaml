@@ -38,3 +38,13 @@ include:
   - board: seeeduino_xiao_ble
     shield: totem_right
     # there is no settingsreset (needed) for the XIAO
+
+  # Knuckles Wireless
+  - board: nice_nano_v2
+    shield: knuckles_left
+  - board: nice_nano_v2
+    shield: knuckles_right
+  - board: nice_nano_v2
+    shield: knuckles_tps43_left
+  - board: nice_nano_v2
+    shield: knuckles_tps43_right

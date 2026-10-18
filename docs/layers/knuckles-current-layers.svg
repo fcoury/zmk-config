@@ -1,0 +1,840 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2400" height="4400" viewBox="0 0 2400 4400"><g font-family="Arial, sans-serif"><rect width="2400" height="4400" fill="#f8faf8"/><text x="100.000" y="104.000" text-anchor="start" font-size="66" font-weight="750" fill="#193b32">KNUCKLES</text><text x="100.000" y="162.000" text-anchor="start" font-size="29" font-weight="500" fill="#597266">Your current layers · assembled 18.5 mm board · macOS modifier labels</text><rect x="64" y="225" width="2272" height="970" rx="26" fill="white" stroke="#dce6df" stroke-width="2"/>
+<rect x="100" y="261" width="76" height="53" rx="12" fill="#174b40"/>
+<text x="138.000" y="299.000" text-anchor="middle" font-size="30" font-weight="700" fill="white">0</text>
+<text x="196.000" y="300.000" text-anchor="start" font-size="38" font-weight="700" fill="#174b40">BASE</text>
+<text x="196.000" y="345.000" text-anchor="start" font-size="25" font-weight="500" fill="#597266">Typing · small lower legends show the action when held</text>
+<g transform="translate(125,380) scale(7.3)">
+<g transform="translate(-91.240014, -28.8345)">
+<polygon points="91.329526,108.608752 91.366509,108.714434 91.426082,108.809236 91.505256,108.888405 91.600063,108.94797 91.705747,108.984946 91.817009,108.997477 145.352317,108.995012 145.469202,109.00886 145.579612,109.04965 145.677427,109.115119 145.757227,109.201641 155.918609,123.225565 155.986215,123.301304 156.067727,123.361825 156.159783,123.404633 156.258589,123.427964 192.592389,128.184877 192.777482,128.247634 207.528025,136.763864 207.63111,136.80878 207.741625,136.829525 207.853981,136.825048 207.962495,136.795578 208.06168,136.742604 208.146519,136.668805 208.212721,136.577913 221.253,113.634096 221.501013,113.204525 221.550963,113.083935 221.568,112.954525 221.568,54.7275 221.555464,54.616239 221.518484,54.510558 221.458916,54.415755 221.379745,54.336584 221.284942,54.277016 221.17926,54.240036 221.068,54.2275 201.818604,54.2275 201.70726,54.214945 201.601507,54.17791 201.506657,54.118254 201.427473,54.038975 201.367933,53.944053 201.331025,53.838256 201.318605,53.726896 201.342395,34.035064 201.329976,33.923709 201.293072,33.817917 201.233537,33.722998 201.154361,33.64372 201.059519,33.584063 200.953774,33.547022 200.842436,33.534459 183.342959,33.533041 183.231706,33.520497 183.126032,33.483512 183.031237,33.423942 182.952073,33.344772 182.89251,33.249972 182.855535,33.144295 182.843,33.033041 182.843,31.6025 182.830464,31.491239 182.793484,31.385558 182.733916,31.290755 182.654745,31.211584 182.559942,31.152016 182.45426,31.115036 182.343,31.1025 164.843,31.1025 164.73174,31.089964 164.626058,31.052984 164.531255,30.993416 164.452084,30.914245 164.392516,30.819442 164.355536,30.71376 164.343,30.6025 164.343,29.4095 164.330464,29.29824 164.293484,29.192558 164.233916,29.097755 164.154745,29.018584 164.059942,28.959016 163.95426,28.922036 163.843,28.9095 147.315,28.9095 147.20374,28.922036 147.098058,28.959016 147.003255,29.018584 146.924084,29.097755 146.864516,29.192558 146.827536,29.29824 146.815,29.4095 146.815,30.6025 146.802464,30.71376 146.765484,30.819442 146.705916,30.914245 146.626745,30.993416 146.531942,31.052984 146.42626,31.089964 146.315,31.1025 128.815,31.1025 128.70374,31.115036 128.598058,31.152016 128.503255,31.211584 128.424084,31.290755 128.364516,31.385558 128.327536,31.491239 128.315,31.6025 128.315,35.226514 128.302464,35.337772 128.265486,35.443452 128.205919,35.538254 128.126751,35.617424 128.031951,35.676994 127.926272,35.713975 127.815014,35.726514 91.815,35.727486 91.70374,35.740026 91.59806,35.777008 91.503258,35.836579 91.424089,35.915752 91.364523,36.010557 91.327547,36.116239 91.315014,36.2275 91.316986,108.497491" fill="#e8efeb"/>
+<g fill="none" stroke="#9cb7aa" stroke-width="0.28">
+<path d="M91.3170 108.4975 L91.3150 36.2275 "/>
+<path d="M91.8150 35.7275 L127.8150 35.7265 "/>
+<path d="M128.3150 35.2265 L128.3150 31.6025 "/>
+<path d="M128.8150 31.1025 L146.3150 31.1025 "/>
+<path d="M146.8150 30.6025 L146.8150 29.4095 "/>
+<path d="M147.3150 28.9095 L163.8430 28.9095 "/>
+<path d="M164.3430 29.4095 L164.3430 30.6025 "/>
+<path d="M164.8430 31.1025 L182.3430 31.1025 "/>
+<path d="M182.8430 31.6025 L182.8430 33.0330 "/>
+<path d="M183.3430 33.5330 L200.8424 33.5345 "/>
+<path d="M201.3424 34.0351 L201.3186 53.7269 "/>
+<path d="M221.2530 113.6341 L208.2127 136.5779 "/>
+<path d="M207.5280 136.7639 L192.7775 128.2476 "/>
+<path d="M192.5924 128.1849 L156.2586 123.4280 "/>
+<path d="M155.9186 123.2256 L145.7572 109.2016 "/>
+<path d="M145.3523 108.9950 L91.8170 108.9975 "/>
+<path d="M201.8186 54.2275 L221.0680 54.2275 "/>
+<path d="M221.5680 54.7275 L221.5680 112.9545 "/>
+<path d="M221.5010 113.2045 L221.2530 113.6341 "/>
+<path d="M91.8150 35.7275 A0.5000 0.5000 0.0 0 0 91.3150 36.2275"/>
+<path d="M127.8150 35.7265 A0.5000 0.5000 0.0 0 0 128.3150 35.2265"/>
+<path d="M128.8150 31.1025 A0.5000 0.5000 0.0 0 0 128.3150 31.6025"/>
+<path d="M146.3150 31.1025 A0.5000 0.5000 0.0 0 0 146.8150 30.6025"/>
+<path d="M147.3150 28.9095 A0.5000 0.5000 0.0 0 0 146.8150 29.4095"/>
+<path d="M164.3430 29.4095 A0.5000 0.5000 0.0 0 0 163.8430 28.9095"/>
+<path d="M164.3430 30.6025 A0.5000 0.5000 0.0 0 0 164.8430 31.1025"/>
+<path d="M182.8430 31.6025 A0.5000 0.5000 0.0 0 0 182.3430 31.1025"/>
+<path d="M182.8430 33.0330 A0.5000 0.5000 0.0 0 0 183.3430 33.5330"/>
+<path d="M201.3424 34.0351 A0.5000 0.5000 0.0 0 0 200.8424 33.5345"/>
+<path d="M201.3186 53.7269 A0.5000 0.5000 0.0 0 0 201.8186 54.2275"/>
+<path d="M221.5680 54.7275 A0.5000 0.5000 0.0 0 0 221.0680 54.2275"/>
+<path d="M221.5010 113.2045 A0.5000 0.5000 0.0 0 0 221.5680 112.9545"/>
+<path d="M207.5280 136.7639 A0.5000 0.5000 0.0 0 0 208.2127 136.5779"/>
+<path d="M192.7775 128.2476 A0.5001 0.5001 0.0 0 0 192.5924 128.1849"/>
+<path d="M155.9186 123.2256 A0.5000 0.5000 0.0 0 0 156.2586 123.4280"/>
+<path d="M145.7572 109.2017 A0.5000 0.5000 0.0 0 0 145.3523 108.9950"/>
+<path d="M91.3170 108.4975 A0.5000 0.5000 0.0 0 0 91.8170 108.9975"/>
+</g>
+</g>
+<rect x="0.660" y="63.466" width="16.2" height="15.4" rx="1.6" fill="#ffffff" stroke="#b7cbbf" stroke-width="0.35" transform="rotate(-0.00 8.760 71.166)"/>
+<text x="8.760" y="72.266" text-anchor="middle" font-size="2.8" font-weight="650" fill="#193b32">Shift</text>
+<rect x="0.660" y="44.965" width="16.2" height="15.4" rx="1.6" fill="#e1eee8" stroke="#b7cbbf" stroke-width="0.35" transform="rotate(-0.00 8.760 52.666)"/>
+<text x="8.760" y="52.866" text-anchor="middle" font-size="2.8" font-weight="650" fill="#193b32">Esc</text>
+<text x="8.760" y="56.465" text-anchor="middle" font-size="1.65" font-weight="500" fill="#174b40">hold Ctrl</text>
+<rect x="0.660" y="26.466" width="16.2" height="15.4" rx="1.6" fill="#ffffff" stroke="#b7cbbf" stroke-width="0.35" transform="rotate(-0.00 8.760 34.166)"/>
+<text x="8.760" y="35.266" text-anchor="middle" font-size="2.8" font-weight="650" fill="#193b32">Tab</text>
+<rect x="0.660" y="7.966" width="16.2" height="15.4" rx="1.6" fill="#ffffff" stroke="#b7cbbf" stroke-width="0.35" transform="rotate(-0.00 8.760 15.666)"/>
+<text x="8.760" y="16.766" text-anchor="middle" font-size="2.25" font-weight="650" fill="#193b32">Esc / `</text>
+<rect x="19.160" y="63.466" width="16.2" height="15.4" rx="1.6" fill="#ffffff" stroke="#b7cbbf" stroke-width="0.35" transform="rotate(-0.00 27.260 71.166)"/>
+<text x="27.260" y="72.266" text-anchor="middle" font-size="3.9" font-weight="650" fill="#193b32">Z</text>
+<rect x="19.160" y="44.965" width="16.2" height="15.4" rx="1.6" fill="#e1eee8" stroke="#b7cbbf" stroke-width="0.35" transform="rotate(-0.00 27.260 52.666)"/>
+<text x="27.260" y="52.866" text-anchor="middle" font-size="3.9" font-weight="650" fill="#193b32">A</text>
+<text x="27.260" y="56.465" text-anchor="middle" font-size="1.65" font-weight="500" fill="#174b40">hold Shift</text>
+<rect x="19.160" y="26.466" width="16.2" height="15.4" rx="1.6" fill="#ffffff" stroke="#b7cbbf" stroke-width="0.35" transform="rotate(-0.00 27.260 34.166)"/>
+<text x="27.260" y="35.266" text-anchor="middle" font-size="3.9" font-weight="650" fill="#193b32">Q</text>
+<rect x="19.160" y="7.966" width="16.2" height="15.4" rx="1.6" fill="#ffffff" stroke="#b7cbbf" stroke-width="0.35" transform="rotate(-0.00 27.260 15.666)"/>
+<text x="27.260" y="16.766" text-anchor="middle" font-size="3.9" font-weight="650" fill="#193b32">1</text>
+<rect x="37.660" y="58.841" width="16.2" height="15.4" rx="1.6" fill="#ffffff" stroke="#b7cbbf" stroke-width="0.35" transform="rotate(-0.00 45.760 66.541)"/>
+<text x="45.760" y="67.641" text-anchor="middle" font-size="3.9" font-weight="650" fill="#193b32">X</text>
+<rect x="37.660" y="40.340" width="16.2" height="15.4" rx="1.6" fill="#e1eee8" stroke="#b7cbbf" stroke-width="0.35" transform="rotate(-0.00 45.760 48.041)"/>
+<text x="45.760" y="48.241" text-anchor="middle" font-size="3.9" font-weight="650" fill="#193b32">S</text>
+<text x="45.760" y="51.840" text-anchor="middle" font-size="1.65" font-weight="500" fill="#174b40">hold Ctrl</text>
+<rect x="37.660" y="21.841" width="16.2" height="15.4" rx="1.6" fill="#ffffff" stroke="#b7cbbf" stroke-width="0.35" transform="rotate(-0.00 45.760 29.541)"/>
+<text x="45.760" y="30.641" text-anchor="middle" font-size="3.9" font-weight="650" fill="#193b32">W</text>
+<rect x="37.660" y="3.341" width="16.2" height="15.4" rx="1.6" fill="#ffffff" stroke="#b7cbbf" stroke-width="0.35" transform="rotate(-0.00 45.760 11.041)"/>
+<text x="45.760" y="12.141" text-anchor="middle" font-size="3.9" font-weight="650" fill="#193b32">2</text>
+<rect x="56.160" y="56.528" width="16.2" height="15.4" rx="1.6" fill="#ffffff" stroke="#b7cbbf" stroke-width="0.35" transform="rotate(-0.00 64.260 64.228)"/>
+<text x="64.260" y="65.328" text-anchor="middle" font-size="3.9" font-weight="650" fill="#193b32">C</text>
+<rect x="56.160" y="38.028" width="16.2" height="15.4" rx="1.6" fill="#e1eee8" stroke="#b7cbbf" stroke-width="0.35" transform="rotate(-0.00 64.260 45.728)"/>
+<text x="64.260" y="45.928" text-anchor="middle" font-size="3.9" font-weight="650" fill="#193b32">D</text>
+<text x="64.260" y="49.528" text-anchor="middle" font-size="1.65" font-weight="500" fill="#174b40">hold Alt</text>
+<rect x="56.160" y="19.528" width="16.2" height="15.4" rx="1.6" fill="#ffffff" stroke="#b7cbbf" stroke-width="0.35" transform="rotate(-0.00 64.260 27.228)"/>
+<text x="64.260" y="28.328" text-anchor="middle" font-size="3.9" font-weight="650" fill="#193b32">E</text>
+<rect x="56.160" y="1.028" width="16.2" height="15.4" rx="1.6" fill="#ffffff" stroke="#b7cbbf" stroke-width="0.35" transform="rotate(-0.00 64.260 8.728)"/>
+<text x="64.260" y="9.828" text-anchor="middle" font-size="3.9" font-weight="650" fill="#193b32">3</text>
+<rect x="74.660" y="58.841" width="16.2" height="15.4" rx="1.6" fill="#ffffff" stroke="#b7cbbf" stroke-width="0.35" transform="rotate(-0.00 82.760 66.541)"/>
+<text x="82.760" y="67.641" text-anchor="middle" font-size="3.9" font-weight="650" fill="#193b32">V</text>
+<rect x="74.660" y="40.340" width="16.2" height="15.4" rx="1.6" fill="#e1eee8" stroke="#b7cbbf" stroke-width="0.35" transform="rotate(-0.00 82.760 48.041)"/>
+<text x="82.760" y="48.241" text-anchor="middle" font-size="3.9" font-weight="650" fill="#193b32">F</text>
+<text x="82.760" y="51.840" text-anchor="middle" font-size="1.65" font-weight="500" fill="#174b40">hold Cmd</text>
+<rect x="74.660" y="21.841" width="16.2" height="15.4" rx="1.6" fill="#ffffff" stroke="#b7cbbf" stroke-width="0.35" transform="rotate(-0.00 82.760 29.541)"/>
+<text x="82.760" y="30.641" text-anchor="middle" font-size="3.9" font-weight="650" fill="#193b32">R</text>
+<rect x="74.660" y="3.341" width="16.2" height="15.4" rx="1.6" fill="#ffffff" stroke="#b7cbbf" stroke-width="0.35" transform="rotate(-0.00 82.760 11.041)"/>
+<text x="82.760" y="12.141" text-anchor="middle" font-size="3.9" font-weight="650" fill="#193b32">4</text>
+<rect x="93.160" y="61.153" width="16.2" height="15.4" rx="1.6" fill="#ffffff" stroke="#b7cbbf" stroke-width="0.35" transform="rotate(-0.00 101.260 68.853)"/>
+<text x="101.260" y="69.953" text-anchor="middle" font-size="3.9" font-weight="650" fill="#193b32">B</text>
+<rect x="93.160" y="42.653" width="16.2" height="15.4" rx="1.6" fill="#ffffff" stroke="#b7cbbf" stroke-width="0.35" transform="rotate(-0.00 101.260 50.353)"/>
+<text x="101.260" y="51.453" text-anchor="middle" font-size="3.9" font-weight="650" fill="#193b32">G</text>
+<rect x="93.160" y="24.153" width="16.2" height="15.4" rx="1.6" fill="#ffffff" stroke="#b7cbbf" stroke-width="0.35" transform="rotate(-0.00 101.260 31.853)"/>
+<text x="101.260" y="32.953" text-anchor="middle" font-size="3.9" font-weight="650" fill="#193b32">T</text>
+<rect x="93.160" y="5.653" width="16.2" height="15.4" rx="1.6" fill="#ffffff" stroke="#b7cbbf" stroke-width="0.35" transform="rotate(-0.00 101.260 13.353)"/>
+<text x="101.260" y="14.453" text-anchor="middle" font-size="3.9" font-weight="650" fill="#193b32">5</text>
+<rect x="65.410" y="78.028" width="16.2" height="15.4" rx="1.6" fill="#ffffff" stroke="#b7cbbf" stroke-width="0.35" transform="rotate(-0.00 73.510 85.728)"/>
+<text x="73.510" y="86.828" text-anchor="middle" font-size="2.8" font-weight="650" fill="#193b32">Alt</text>
+<rect x="85.910" y="80.778" width="16.2" height="15.4" rx="1.6" fill="#ffffff" stroke="#b7cbbf" stroke-width="0.35" transform="rotate(15.00 94.010 88.478)"/>
+<text x="94.010" y="89.578" text-anchor="middle" font-size="2.8" font-weight="650" fill="#193b32">Cmd</text>
+<rect x="107.674" y="84.413" width="16.2" height="15.4" rx="1.6" fill="#e1eee8" stroke="#b7cbbf" stroke-width="0.35" transform="rotate(-60.00 115.774 92.113)"/>
+<text x="115.774" y="92.313" text-anchor="middle" font-size="2.8" font-weight="650" fill="#193b32">Space</text>
+<text x="115.774" y="95.913" text-anchor="middle" font-size="1.65" font-weight="500" fill="#174b40">hold EXTRA</text>
+</g>
+<g transform="translate(1275,380) scale(7.3)">
+<g transform="translate(221.643, -28.8345) scale(-1,1)">
+<polygon points="91.329526,108.608752 91.366509,108.714434 91.426082,108.809236 91.505256,108.888405 91.600063,108.94797 91.705747,108.984946 91.817009,108.997477 145.352317,108.995012 145.469202,109.00886 145.579612,109.04965 145.677427,109.115119 145.757227,109.201641 155.918609,123.225565 155.986215,123.301304 156.067727,123.361825 156.159783,123.404633 156.258589,123.427964 192.592389,128.184877 192.777482,128.247634 207.528025,136.763864 207.63111,136.80878 207.741625,136.829525 207.853981,136.825048 207.962495,136.795578 208.06168,136.742604 208.146519,136.668805 208.212721,136.577913 221.253,113.634096 221.501013,113.204525 221.550963,113.083935 221.568,112.954525 221.568,54.7275 221.555464,54.616239 221.518484,54.510558 221.458916,54.415755 221.379745,54.336584 221.284942,54.277016 221.17926,54.240036 221.068,54.2275 201.818604,54.2275 201.70726,54.214945 201.601507,54.17791 201.506657,54.118254 201.427473,54.038975 201.367933,53.944053 201.331025,53.838256 201.318605,53.726896 201.342395,34.035064 201.329976,33.923709 201.293072,33.817917 201.233537,33.722998 201.154361,33.64372 201.059519,33.584063 200.953774,33.547022 200.842436,33.534459 183.342959,33.533041 183.231706,33.520497 183.126032,33.483512 183.031237,33.423942 182.952073,33.344772 182.89251,33.249972 182.855535,33.144295 182.843,33.033041 182.843,31.6025 182.830464,31.491239 182.793484,31.385558 182.733916,31.290755 182.654745,31.211584 182.559942,31.152016 182.45426,31.115036 182.343,31.1025 164.843,31.1025 164.73174,31.089964 164.626058,31.052984 164.531255,30.993416 164.452084,30.914245 164.392516,30.819442 164.355536,30.71376 164.343,30.6025 164.343,29.4095 164.330464,29.29824 164.293484,29.192558 164.233916,29.097755 164.154745,29.018584 164.059942,28.959016 163.95426,28.922036 163.843,28.9095 147.315,28.9095 147.20374,28.922036 147.098058,28.959016 147.003255,29.018584 146.924084,29.097755 146.864516,29.192558 146.827536,29.29824 146.815,29.4095 146.815,30.6025 146.802464,30.71376 146.765484,30.819442 146.705916,30.914245 146.626745,30.993416 146.531942,31.052984 146.42626,31.089964 146.315,31.1025 128.815,31.1025 128.70374,31.115036 128.598058,31.152016 128.503255,31.211584 128.424084,31.290755 128.364516,31.385558 128.327536,31.491239 128.315,31.6025 128.315,35.226514 128.302464,35.337772 128.265486,35.443452 128.205919,35.538254 128.126751,35.617424 128.031951,35.676994 127.926272,35.713975 127.815014,35.726514 91.815,35.727486 91.70374,35.740026 91.59806,35.777008 91.503258,35.836579 91.424089,35.915752 91.364523,36.010557 91.327547,36.116239 91.315014,36.2275 91.316986,108.497491" fill="#e8efeb"/>
+<g fill="none" stroke="#9cb7aa" stroke-width="0.28">
+<path d="M91.3170 108.4975 L91.3150 36.2275 "/>
+<path d="M91.8150 35.7275 L127.8150 35.7265 "/>
+<path d="M128.3150 35.2265 L128.3150 31.6025 "/>
+<path d="M128.8150 31.1025 L146.3150 31.1025 "/>
+<path d="M146.8150 30.6025 L146.8150 29.4095 "/>
+<path d="M147.3150 28.9095 L163.8430 28.9095 "/>
+<path d="M164.3430 29.4095 L164.3430 30.6025 "/>
+<path d="M164.8430 31.1025 L182.3430 31.1025 "/>
+<path d="M182.8430 31.6025 L182.8430 33.0330 "/>
+<path d="M183.3430 33.5330 L200.8424 33.5345 "/>
+<path d="M201.3424 34.0351 L201.3186 53.7269 "/>
+<path d="M221.2530 113.6341 L208.2127 136.5779 "/>
+<path d="M207.5280 136.7639 L192.7775 128.2476 "/>
+<path d="M192.5924 128.1849 L156.2586 123.4280 "/>
+<path d="M155.9186 123.2256 L145.7572 109.2016 "/>
+<path d="M145.3523 108.9950 L91.8170 108.9975 "/>
+<path d="M201.8186 54.2275 L221.0680 54.2275 "/>
+<path d="M221.5680 54.7275 L221.5680 112.9545 "/>
+<path d="M221.5010 113.2045 L221.2530 113.6341 "/>
+<path d="M91.8150 35.7275 A0.5000 0.5000 0.0 0 0 91.3150 36.2275"/>
+<path d="M127.8150 35.7265 A0.5000 0.5000 0.0 0 0 128.3150 35.2265"/>
+<path d="M128.8150 31.1025 A0.5000 0.5000 0.0 0 0 128.3150 31.6025"/>
+<path d="M146.3150 31.1025 A0.5000 0.5000 0.0 0 0 146.8150 30.6025"/>
+<path d="M147.3150 28.9095 A0.5000 0.5000 0.0 0 0 146.8150 29.4095"/>
+<path d="M164.3430 29.4095 A0.5000 0.5000 0.0 0 0 163.8430 28.9095"/>
+<path d="M164.3430 30.6025 A0.5000 0.5000 0.0 0 0 164.8430 31.1025"/>
+<path d="M182.8430 31.6025 A0.5000 0.5000 0.0 0 0 182.3430 31.1025"/>
+<path d="M182.8430 33.0330 A0.5000 0.5000 0.0 0 0 183.3430 33.5330"/>
+<path d="M201.3424 34.0351 A0.5000 0.5000 0.0 0 0 200.8424 33.5345"/>
+<path d="M201.3186 53.7269 A0.5000 0.5000 0.0 0 0 201.8186 54.2275"/>
+<path d="M221.5680 54.7275 A0.5000 0.5000 0.0 0 0 221.0680 54.2275"/>
+<path d="M221.5010 113.2045 A0.5000 0.5000 0.0 0 0 221.5680 112.9545"/>
+<path d="M207.5280 136.7639 A0.5000 0.5000 0.0 0 0 208.2127 136.5779"/>
+<path d="M192.7775 128.2476 A0.5001 0.5001 0.0 0 0 192.5924 128.1849"/>
+<path d="M155.9186 123.2256 A0.5000 0.5000 0.0 0 0 156.2586 123.4280"/>
+<path d="M145.7572 109.2017 A0.5000 0.5000 0.0 0 0 145.3523 108.9950"/>
+<path d="M91.3170 108.4975 A0.5000 0.5000 0.0 0 0 91.8170 108.9975"/>
+</g>
+</g>
+<rect x="113.543" y="63.466" width="16.2" height="15.4" rx="1.6" fill="#e1eee8" stroke="#b7cbbf" stroke-width="0.35" transform="rotate(0.00 121.643 71.166)"/>
+<text x="121.643" y="71.366" text-anchor="middle" font-size="3.9" font-weight="650" fill="#193b32">&#x27;</text>
+<text x="121.643" y="74.966" text-anchor="middle" font-size="1.65" font-weight="500" fill="#174b40">hold CTRL</text>
+<rect x="113.543" y="44.965" width="16.2" height="15.4" rx="1.6" fill="#ffffff" stroke="#b7cbbf" stroke-width="0.35" transform="rotate(0.00 121.643 52.666)"/>
+<text x="121.643" y="53.766" text-anchor="middle" font-size="2.8" font-weight="650" fill="#193b32">Enter</text>
+<rect x="113.543" y="26.466" width="16.2" height="15.4" rx="1.6" fill="#ffffff" stroke="#b7cbbf" stroke-width="0.35" transform="rotate(0.00 121.643 34.166)"/>
+<text x="121.643" y="35.266" text-anchor="middle" font-size="2.8" font-weight="650" fill="#193b32">Bksp</text>
+<rect x="113.543" y="7.966" width="16.2" height="15.4" rx="1.6" fill="#ffffff" stroke="#b7cbbf" stroke-width="0.35" transform="rotate(0.00 121.643 15.666)"/>
+<text x="121.643" y="16.766" text-anchor="middle" font-size="3.9" font-weight="650" fill="#193b32">\</text>
+<rect x="95.043" y="63.466" width="16.2" height="15.4" rx="1.6" fill="#ffffff" stroke="#b7cbbf" stroke-width="0.35" transform="rotate(0.00 103.143 71.166)"/>
+<text x="103.143" y="72.266" text-anchor="middle" font-size="3.9" font-weight="650" fill="#193b32">/</text>
+<rect x="95.043" y="44.965" width="16.2" height="15.4" rx="1.6" fill="#e1eee8" stroke="#b7cbbf" stroke-width="0.35" transform="rotate(0.00 103.143 52.666)"/>
+<text x="103.143" y="52.866" text-anchor="middle" font-size="3.9" font-weight="650" fill="#193b32">;</text>
+<text x="103.143" y="56.465" text-anchor="middle" font-size="1.65" font-weight="500" fill="#174b40">hold Shift</text>
+<rect x="95.043" y="26.466" width="16.2" height="15.4" rx="1.6" fill="#ffffff" stroke="#b7cbbf" stroke-width="0.35" transform="rotate(0.00 103.143 34.166)"/>
+<text x="103.143" y="35.266" text-anchor="middle" font-size="3.9" font-weight="650" fill="#193b32">P</text>
+<rect x="95.043" y="7.966" width="16.2" height="15.4" rx="1.6" fill="#ffffff" stroke="#b7cbbf" stroke-width="0.35" transform="rotate(0.00 103.143 15.666)"/>
+<text x="103.143" y="16.766" text-anchor="middle" font-size="3.9" font-weight="650" fill="#193b32">0</text>
+<rect x="76.543" y="58.841" width="16.2" height="15.4" rx="1.6" fill="#ffffff" stroke="#b7cbbf" stroke-width="0.35" transform="rotate(0.00 84.643 66.541)"/>
+<text x="84.643" y="67.641" text-anchor="middle" font-size="3.9" font-weight="650" fill="#193b32">.</text>
+<rect x="76.543" y="40.340" width="16.2" height="15.4" rx="1.6" fill="#e1eee8" stroke="#b7cbbf" stroke-width="0.35" transform="rotate(0.00 84.643 48.041)"/>
+<text x="84.643" y="48.241" text-anchor="middle" font-size="3.9" font-weight="650" fill="#193b32">L</text>
+<text x="84.643" y="51.840" text-anchor="middle" font-size="1.65" font-weight="500" fill="#174b40">hold Ctrl</text>
+<rect x="76.543" y="21.841" width="16.2" height="15.4" rx="1.6" fill="#ffffff" stroke="#b7cbbf" stroke-width="0.35" transform="rotate(0.00 84.643 29.541)"/>
+<text x="84.643" y="30.641" text-anchor="middle" font-size="3.9" font-weight="650" fill="#193b32">O</text>
+<rect x="76.543" y="3.341" width="16.2" height="15.4" rx="1.6" fill="#ffffff" stroke="#b7cbbf" stroke-width="0.35" transform="rotate(0.00 84.643 11.041)"/>
+<text x="84.643" y="12.141" text-anchor="middle" font-size="3.9" font-weight="650" fill="#193b32">9</text>
+<rect x="58.043" y="56.528" width="16.2" height="15.4" rx="1.6" fill="#ffffff" stroke="#b7cbbf" stroke-width="0.35" transform="rotate(0.00 66.143 64.228)"/>
+<text x="66.143" y="65.328" text-anchor="middle" font-size="3.9" font-weight="650" fill="#193b32">,</text>
+<rect x="58.043" y="38.028" width="16.2" height="15.4" rx="1.6" fill="#e1eee8" stroke="#b7cbbf" stroke-width="0.35" transform="rotate(0.00 66.143 45.728)"/>
+<text x="66.143" y="45.928" text-anchor="middle" font-size="3.9" font-weight="650" fill="#193b32">K</text>
+<text x="66.143" y="49.528" text-anchor="middle" font-size="1.65" font-weight="500" fill="#174b40">hold Alt</text>
+<rect x="58.043" y="19.528" width="16.2" height="15.4" rx="1.6" fill="#ffffff" stroke="#b7cbbf" stroke-width="0.35" transform="rotate(0.00 66.143 27.228)"/>
+<text x="66.143" y="28.328" text-anchor="middle" font-size="3.9" font-weight="650" fill="#193b32">I</text>
+<rect x="58.043" y="1.028" width="16.2" height="15.4" rx="1.6" fill="#ffffff" stroke="#b7cbbf" stroke-width="0.35" transform="rotate(0.00 66.143 8.728)"/>
+<text x="66.143" y="9.828" text-anchor="middle" font-size="3.9" font-weight="650" fill="#193b32">8</text>
+<rect x="39.543" y="58.841" width="16.2" height="15.4" rx="1.6" fill="#ffffff" stroke="#b7cbbf" stroke-width="0.35" transform="rotate(0.00 47.643 66.541)"/>
+<text x="47.643" y="67.641" text-anchor="middle" font-size="3.9" font-weight="650" fill="#193b32">M</text>
+<rect x="39.543" y="40.340" width="16.2" height="15.4" rx="1.6" fill="#e1eee8" stroke="#b7cbbf" stroke-width="0.35" transform="rotate(0.00 47.643 48.041)"/>
+<text x="47.643" y="48.241" text-anchor="middle" font-size="3.9" font-weight="650" fill="#193b32">J</text>
+<text x="47.643" y="51.840" text-anchor="middle" font-size="1.65" font-weight="500" fill="#174b40">hold Cmd</text>
+<rect x="39.543" y="21.841" width="16.2" height="15.4" rx="1.6" fill="#ffffff" stroke="#b7cbbf" stroke-width="0.35" transform="rotate(0.00 47.643 29.541)"/>
+<text x="47.643" y="30.641" text-anchor="middle" font-size="3.9" font-weight="650" fill="#193b32">U</text>
+<rect x="39.543" y="3.341" width="16.2" height="15.4" rx="1.6" fill="#ffffff" stroke="#b7cbbf" stroke-width="0.35" transform="rotate(0.00 47.643 11.041)"/>
+<text x="47.643" y="12.141" text-anchor="middle" font-size="3.9" font-weight="650" fill="#193b32">7</text>
+<rect x="21.043" y="61.153" width="16.2" height="15.4" rx="1.6" fill="#ffffff" stroke="#b7cbbf" stroke-width="0.35" transform="rotate(0.00 29.143 68.853)"/>
+<text x="29.143" y="69.953" text-anchor="middle" font-size="3.9" font-weight="650" fill="#193b32">N</text>
+<rect x="21.043" y="42.653" width="16.2" height="15.4" rx="1.6" fill="#ffffff" stroke="#b7cbbf" stroke-width="0.35" transform="rotate(0.00 29.143 50.353)"/>
+<text x="29.143" y="51.453" text-anchor="middle" font-size="3.9" font-weight="650" fill="#193b32">H</text>
+<rect x="21.043" y="24.153" width="16.2" height="15.4" rx="1.6" fill="#ffffff" stroke="#b7cbbf" stroke-width="0.35" transform="rotate(0.00 29.143 31.853)"/>
+<text x="29.143" y="32.953" text-anchor="middle" font-size="3.9" font-weight="650" fill="#193b32">Y</text>
+<rect x="21.043" y="5.653" width="16.2" height="15.4" rx="1.6" fill="#ffffff" stroke="#b7cbbf" stroke-width="0.35" transform="rotate(0.00 29.143 13.353)"/>
+<text x="29.143" y="14.453" text-anchor="middle" font-size="3.9" font-weight="650" fill="#193b32">6</text>
+<rect x="48.793" y="78.028" width="16.2" height="15.4" rx="1.6" fill="#ffffff" stroke="#b7cbbf" stroke-width="0.35" transform="rotate(0.00 56.893 85.728)"/>
+<text x="56.893" y="86.828" text-anchor="middle" font-size="2.8" font-weight="650" fill="#193b32">Alt</text>
+<rect x="28.293" y="80.778" width="16.2" height="15.4" rx="1.6" fill="#e1eee8" stroke="#b7cbbf" stroke-width="0.35" transform="rotate(-15.00 36.393 88.478)"/>
+<text x="36.393" y="88.678" text-anchor="middle" font-size="2.8" font-weight="650" fill="#193b32">NAVI</text>
+<text x="36.393" y="92.278" text-anchor="middle" font-size="1.65" font-weight="500" fill="#174b40">hold layer</text>
+<rect x="6.529" y="84.413" width="16.2" height="15.4" rx="1.6" fill="#ffffff" stroke="#b7cbbf" stroke-width="0.35" transform="rotate(60.00 14.629 92.113)"/>
+<text x="14.629" y="93.213" text-anchor="middle" font-size="2.8" font-weight="650" fill="#193b32">Space</text>
+</g><rect x="64" y="1225" width="2272" height="970" rx="26" fill="white" stroke="#dce6df" stroke-width="2"/>
+<rect x="100" y="1261" width="76" height="53" rx="12" fill="#8252ba"/>
+<text x="138.000" y="1299.000" text-anchor="middle" font-size="30" font-weight="700" fill="white">1</text>
+<text x="196.000" y="1300.000" text-anchor="start" font-size="38" font-weight="700" fill="#8252ba">EXTRA</text>
+<text x="196.000" y="1345.000" text-anchor="start" font-size="25" font-weight="500" fill="#597266">Hold the left Space thumb key · tap that key for Space</text>
+<g transform="translate(125,1380) scale(7.3)">
+<g transform="translate(-91.240014, -28.8345)">
+<polygon points="91.329526,108.608752 91.366509,108.714434 91.426082,108.809236 91.505256,108.888405 91.600063,108.94797 91.705747,108.984946 91.817009,108.997477 145.352317,108.995012 145.469202,109.00886 145.579612,109.04965 145.677427,109.115119 145.757227,109.201641 155.918609,123.225565 155.986215,123.301304 156.067727,123.361825 156.159783,123.404633 156.258589,123.427964 192.592389,128.184877 192.777482,128.247634 207.528025,136.763864 207.63111,136.80878 207.741625,136.829525 207.853981,136.825048 207.962495,136.795578 208.06168,136.742604 208.146519,136.668805 208.212721,136.577913 221.253,113.634096 221.501013,113.204525 221.550963,113.083935 221.568,112.954525 221.568,54.7275 221.555464,54.616239 221.518484,54.510558 221.458916,54.415755 221.379745,54.336584 221.284942,54.277016 221.17926,54.240036 221.068,54.2275 201.818604,54.2275 201.70726,54.214945 201.601507,54.17791 201.506657,54.118254 201.427473,54.038975 201.367933,53.944053 201.331025,53.838256 201.318605,53.726896 201.342395,34.035064 201.329976,33.923709 201.293072,33.817917 201.233537,33.722998 201.154361,33.64372 201.059519,33.584063 200.953774,33.547022 200.842436,33.534459 183.342959,33.533041 183.231706,33.520497 183.126032,33.483512 183.031237,33.423942 182.952073,33.344772 182.89251,33.249972 182.855535,33.144295 182.843,33.033041 182.843,31.6025 182.830464,31.491239 182.793484,31.385558 182.733916,31.290755 182.654745,31.211584 182.559942,31.152016 182.45426,31.115036 182.343,31.1025 164.843,31.1025 164.73174,31.089964 164.626058,31.052984 164.531255,30.993416 164.452084,30.914245 164.392516,30.819442 164.355536,30.71376 164.343,30.6025 164.343,29.4095 164.330464,29.29824 164.293484,29.192558 164.233916,29.097755 164.154745,29.018584 164.059942,28.959016 163.95426,28.922036 163.843,28.9095 147.315,28.9095 147.20374,28.922036 147.098058,28.959016 147.003255,29.018584 146.924084,29.097755 146.864516,29.192558 146.827536,29.29824 146.815,29.4095 146.815,30.6025 146.802464,30.71376 146.765484,30.819442 146.705916,30.914245 146.626745,30.993416 146.531942,31.052984 146.42626,31.089964 146.315,31.1025 128.815,31.1025 128.70374,31.115036 128.598058,31.152016 128.503255,31.211584 128.424084,31.290755 128.364516,31.385558 128.327536,31.491239 128.315,31.6025 128.315,35.226514 128.302464,35.337772 128.265486,35.443452 128.205919,35.538254 128.126751,35.617424 128.031951,35.676994 127.926272,35.713975 127.815014,35.726514 91.815,35.727486 91.70374,35.740026 91.59806,35.777008 91.503258,35.836579 91.424089,35.915752 91.364523,36.010557 91.327547,36.116239 91.315014,36.2275 91.316986,108.497491" fill="#e8efeb"/>
+<g fill="none" stroke="#9cb7aa" stroke-width="0.28">
+<path d="M91.3170 108.4975 L91.3150 36.2275 "/>
+<path d="M91.8150 35.7275 L127.8150 35.7265 "/>
+<path d="M128.3150 35.2265 L128.3150 31.6025 "/>
+<path d="M128.8150 31.1025 L146.3150 31.1025 "/>
+<path d="M146.8150 30.6025 L146.8150 29.4095 "/>
+<path d="M147.3150 28.9095 L163.8430 28.9095 "/>
+<path d="M164.3430 29.4095 L164.3430 30.6025 "/>
+<path d="M164.8430 31.1025 L182.3430 31.1025 "/>
+<path d="M182.8430 31.6025 L182.8430 33.0330 "/>
+<path d="M183.3430 33.5330 L200.8424 33.5345 "/>
+<path d="M201.3424 34.0351 L201.3186 53.7269 "/>
+<path d="M221.2530 113.6341 L208.2127 136.5779 "/>
+<path d="M207.5280 136.7639 L192.7775 128.2476 "/>
+<path d="M192.5924 128.1849 L156.2586 123.4280 "/>
+<path d="M155.9186 123.2256 L145.7572 109.2016 "/>
+<path d="M145.3523 108.9950 L91.8170 108.9975 "/>
+<path d="M201.8186 54.2275 L221.0680 54.2275 "/>
+<path d="M221.5680 54.7275 L221.5680 112.9545 "/>
+<path d="M221.5010 113.2045 L221.2530 113.6341 "/>
+<path d="M91.8150 35.7275 A0.5000 0.5000 0.0 0 0 91.3150 36.2275"/>
+<path d="M127.8150 35.7265 A0.5000 0.5000 0.0 0 0 128.3150 35.2265"/>
+<path d="M128.8150 31.1025 A0.5000 0.5000 0.0 0 0 128.3150 31.6025"/>
+<path d="M146.3150 31.1025 A0.5000 0.5000 0.0 0 0 146.8150 30.6025"/>
+<path d="M147.3150 28.9095 A0.5000 0.5000 0.0 0 0 146.8150 29.4095"/>
+<path d="M164.3430 29.4095 A0.5000 0.5000 0.0 0 0 163.8430 28.9095"/>
+<path d="M164.3430 30.6025 A0.5000 0.5000 0.0 0 0 164.8430 31.1025"/>
+<path d="M182.8430 31.6025 A0.5000 0.5000 0.0 0 0 182.3430 31.1025"/>
+<path d="M182.8430 33.0330 A0.5000 0.5000 0.0 0 0 183.3430 33.5330"/>
+<path d="M201.3424 34.0351 A0.5000 0.5000 0.0 0 0 200.8424 33.5345"/>
+<path d="M201.3186 53.7269 A0.5000 0.5000 0.0 0 0 201.8186 54.2275"/>
+<path d="M221.5680 54.7275 A0.5000 0.5000 0.0 0 0 221.0680 54.2275"/>
+<path d="M221.5010 113.2045 A0.5000 0.5000 0.0 0 0 221.5680 112.9545"/>
+<path d="M207.5280 136.7639 A0.5000 0.5000 0.0 0 0 208.2127 136.5779"/>
+<path d="M192.7775 128.2476 A0.5001 0.5001 0.0 0 0 192.5924 128.1849"/>
+<path d="M155.9186 123.2256 A0.5000 0.5000 0.0 0 0 156.2586 123.4280"/>
+<path d="M145.7572 109.2017 A0.5000 0.5000 0.0 0 0 145.3523 108.9950"/>
+<path d="M91.3170 108.4975 A0.5000 0.5000 0.0 0 0 91.8170 108.9975"/>
+</g>
+</g>
+<rect x="0.660" y="63.466" width="16.2" height="15.4" rx="1.6" fill="#f3f6f4" stroke="#d2dfd8" stroke-width="0.22" transform="rotate(-0.00 8.760 71.166)"/>
+<text x="8.760" y="72.266" text-anchor="middle" font-size="2.8" font-weight="400" fill="#81958b">Shift</text>
+<rect x="0.660" y="44.965" width="16.2" height="15.4" rx="1.6" fill="#f3f6f4" stroke="#d2dfd8" stroke-width="0.22" transform="rotate(-0.00 8.760 52.666)"/>
+<text x="8.760" y="52.866" text-anchor="middle" font-size="2.8" font-weight="400" fill="#81958b">Esc</text>
+<text x="8.760" y="56.465" text-anchor="middle" font-size="1.65" font-weight="500" fill="#8ea197">hold Ctrl</text>
+<rect x="0.660" y="26.466" width="16.2" height="15.4" rx="1.6" fill="#f3f6f4" stroke="#d2dfd8" stroke-width="0.22" transform="rotate(-0.00 8.760 34.166)"/>
+<text x="8.760" y="35.266" text-anchor="middle" font-size="2.8" font-weight="400" fill="#81958b">Tab</text>
+<rect x="0.660" y="7.966" width="16.2" height="15.4" rx="1.6" fill="#ffffff" stroke="#8252ba" stroke-width="0.35" transform="rotate(-0.00 8.760 15.666)"/>
+<text x="8.760" y="16.766" text-anchor="middle" font-size="3.9" font-weight="650" fill="#193b32">`</text>
+<rect x="19.160" y="63.466" width="16.2" height="15.4" rx="1.6" fill="#f3f6f4" stroke="#d2dfd8" stroke-width="0.22" transform="rotate(-0.00 27.260 71.166)"/>
+<text x="27.260" y="72.266" text-anchor="middle" font-size="3.9" font-weight="400" fill="#81958b">Z</text>
+<rect x="19.160" y="44.965" width="16.2" height="15.4" rx="1.6" fill="#f3f6f4" stroke="#d2dfd8" stroke-width="0.22" transform="rotate(-0.00 27.260 52.666)"/>
+<text x="27.260" y="52.866" text-anchor="middle" font-size="3.9" font-weight="400" fill="#81958b">A</text>
+<text x="27.260" y="56.465" text-anchor="middle" font-size="1.65" font-weight="500" fill="#8ea197">hold Shift</text>
+<rect x="19.160" y="26.466" width="16.2" height="15.4" rx="1.6" fill="#f3f6f4" stroke="#d2dfd8" stroke-width="0.22" transform="rotate(-0.00 27.260 34.166)"/>
+<text x="27.260" y="35.266" text-anchor="middle" font-size="3.9" font-weight="400" fill="#81958b">Q</text>
+<rect x="19.160" y="7.966" width="16.2" height="15.4" rx="1.6" fill="#ffffff" stroke="#8252ba" stroke-width="0.35" transform="rotate(-0.00 27.260 15.666)"/>
+<text x="27.260" y="16.766" text-anchor="middle" font-size="3.9" font-weight="650" fill="#193b32">F1</text>
+<rect x="37.660" y="58.841" width="16.2" height="15.4" rx="1.6" fill="#f3f6f4" stroke="#d2dfd8" stroke-width="0.22" transform="rotate(-0.00 45.760 66.541)"/>
+<text x="45.760" y="67.641" text-anchor="middle" font-size="3.9" font-weight="400" fill="#81958b">X</text>
+<rect x="37.660" y="40.340" width="16.2" height="15.4" rx="1.6" fill="#ffffff" stroke="#8252ba" stroke-width="0.35" transform="rotate(-0.00 45.760 48.041)"/>
+<text x="45.760" y="49.141" text-anchor="middle" font-size="2.25" font-weight="650" fill="#193b32">Middle click</text>
+<rect x="37.660" y="21.841" width="16.2" height="15.4" rx="1.6" fill="#f3f6f4" stroke="#d2dfd8" stroke-width="0.22" transform="rotate(-0.00 45.760 29.541)"/>
+<text x="45.760" y="30.641" text-anchor="middle" font-size="3.9" font-weight="400" fill="#81958b">W</text>
+<rect x="37.660" y="3.341" width="16.2" height="15.4" rx="1.6" fill="#ffffff" stroke="#8252ba" stroke-width="0.35" transform="rotate(-0.00 45.760 11.041)"/>
+<text x="45.760" y="12.141" text-anchor="middle" font-size="3.9" font-weight="650" fill="#193b32">F2</text>
+<rect x="56.160" y="56.528" width="16.2" height="15.4" rx="1.6" fill="#f3f6f4" stroke="#d2dfd8" stroke-width="0.22" transform="rotate(-0.00 64.260 64.228)"/>
+<text x="64.260" y="65.328" text-anchor="middle" font-size="3.9" font-weight="400" fill="#81958b">C</text>
+<rect x="56.160" y="38.028" width="16.2" height="15.4" rx="1.6" fill="#ffffff" stroke="#8252ba" stroke-width="0.35" transform="rotate(-0.00 64.260 45.728)"/>
+<text x="64.260" y="46.828" text-anchor="middle" font-size="2.25" font-weight="650" fill="#193b32">Right click</text>
+<rect x="56.160" y="19.528" width="16.2" height="15.4" rx="1.6" fill="#f3f6f4" stroke="#d2dfd8" stroke-width="0.22" transform="rotate(-0.00 64.260 27.228)"/>
+<text x="64.260" y="28.328" text-anchor="middle" font-size="3.9" font-weight="400" fill="#81958b">E</text>
+<rect x="56.160" y="1.028" width="16.2" height="15.4" rx="1.6" fill="#ffffff" stroke="#8252ba" stroke-width="0.35" transform="rotate(-0.00 64.260 8.728)"/>
+<text x="64.260" y="9.828" text-anchor="middle" font-size="3.9" font-weight="650" fill="#193b32">F3</text>
+<rect x="74.660" y="58.841" width="16.2" height="15.4" rx="1.6" fill="#f3f6f4" stroke="#d2dfd8" stroke-width="0.22" transform="rotate(-0.00 82.760 66.541)"/>
+<text x="82.760" y="67.641" text-anchor="middle" font-size="3.9" font-weight="400" fill="#81958b">V</text>
+<rect x="74.660" y="40.340" width="16.2" height="15.4" rx="1.6" fill="#ffffff" stroke="#8252ba" stroke-width="0.35" transform="rotate(-0.00 82.760 48.041)"/>
+<text x="82.760" y="48.241" text-anchor="middle" font-size="2.25" font-weight="650" fill="#193b32">Left click</text>
+<text x="82.760" y="51.840" text-anchor="middle" font-size="1.65" font-weight="500" fill="#8252ba">hold to drag</text>
+<rect x="74.660" y="21.841" width="16.2" height="15.4" rx="1.6" fill="#f3f6f4" stroke="#d2dfd8" stroke-width="0.22" transform="rotate(-0.00 82.760 29.541)"/>
+<text x="82.760" y="30.641" text-anchor="middle" font-size="3.9" font-weight="400" fill="#81958b">R</text>
+<rect x="74.660" y="3.341" width="16.2" height="15.4" rx="1.6" fill="#ffffff" stroke="#8252ba" stroke-width="0.35" transform="rotate(-0.00 82.760 11.041)"/>
+<text x="82.760" y="12.141" text-anchor="middle" font-size="3.9" font-weight="650" fill="#193b32">F4</text>
+<rect x="93.160" y="61.153" width="16.2" height="15.4" rx="1.6" fill="#f3f6f4" stroke="#d2dfd8" stroke-width="0.22" transform="rotate(-0.00 101.260 68.853)"/>
+<text x="101.260" y="69.953" text-anchor="middle" font-size="3.9" font-weight="400" fill="#81958b">B</text>
+<rect x="93.160" y="42.653" width="16.2" height="15.4" rx="1.6" fill="#f3f6f4" stroke="#d2dfd8" stroke-width="0.22" transform="rotate(-0.00 101.260 50.353)"/>
+<text x="101.260" y="51.453" text-anchor="middle" font-size="3.9" font-weight="400" fill="#81958b">G</text>
+<rect x="93.160" y="24.153" width="16.2" height="15.4" rx="1.6" fill="#f3f6f4" stroke="#d2dfd8" stroke-width="0.22" transform="rotate(-0.00 101.260 31.853)"/>
+<text x="101.260" y="32.953" text-anchor="middle" font-size="3.9" font-weight="400" fill="#81958b">T</text>
+<rect x="93.160" y="5.653" width="16.2" height="15.4" rx="1.6" fill="#ffffff" stroke="#8252ba" stroke-width="0.35" transform="rotate(-0.00 101.260 13.353)"/>
+<text x="101.260" y="14.453" text-anchor="middle" font-size="3.9" font-weight="650" fill="#193b32">F5</text>
+<rect x="65.410" y="78.028" width="16.2" height="15.4" rx="1.6" fill="#f3f6f4" stroke="#d2dfd8" stroke-width="0.22" transform="rotate(-0.00 73.510 85.728)"/>
+<text x="73.510" y="86.828" text-anchor="middle" font-size="2.8" font-weight="400" fill="#81958b">Alt</text>
+<rect x="85.910" y="80.778" width="16.2" height="15.4" rx="1.6" fill="#f3f6f4" stroke="#d2dfd8" stroke-width="0.22" transform="rotate(15.00 94.010 88.478)"/>
+<text x="94.010" y="89.578" text-anchor="middle" font-size="2.8" font-weight="400" fill="#81958b">Cmd</text>
+<rect x="107.674" y="84.413" width="16.2" height="15.4" rx="1.6" fill="#f3f6f4" stroke="#d2dfd8" stroke-width="0.22" transform="rotate(-60.00 115.774 92.113)"/>
+<text x="115.774" y="92.313" text-anchor="middle" font-size="2.8" font-weight="400" fill="#81958b">Space</text>
+<text x="115.774" y="95.913" text-anchor="middle" font-size="1.65" font-weight="500" fill="#8ea197">hold EXTRA</text>
+</g>
+<g transform="translate(1275,1380) scale(7.3)">
+<g transform="translate(221.643, -28.8345) scale(-1,1)">
+<polygon points="91.329526,108.608752 91.366509,108.714434 91.426082,108.809236 91.505256,108.888405 91.600063,108.94797 91.705747,108.984946 91.817009,108.997477 145.352317,108.995012 145.469202,109.00886 145.579612,109.04965 145.677427,109.115119 145.757227,109.201641 155.918609,123.225565 155.986215,123.301304 156.067727,123.361825 156.159783,123.404633 156.258589,123.427964 192.592389,128.184877 192.777482,128.247634 207.528025,136.763864 207.63111,136.80878 207.741625,136.829525 207.853981,136.825048 207.962495,136.795578 208.06168,136.742604 208.146519,136.668805 208.212721,136.577913 221.253,113.634096 221.501013,113.204525 221.550963,113.083935 221.568,112.954525 221.568,54.7275 221.555464,54.616239 221.518484,54.510558 221.458916,54.415755 221.379745,54.336584 221.284942,54.277016 221.17926,54.240036 221.068,54.2275 201.818604,54.2275 201.70726,54.214945 201.601507,54.17791 201.506657,54.118254 201.427473,54.038975 201.367933,53.944053 201.331025,53.838256 201.318605,53.726896 201.342395,34.035064 201.329976,33.923709 201.293072,33.817917 201.233537,33.722998 201.154361,33.64372 201.059519,33.584063 200.953774,33.547022 200.842436,33.534459 183.342959,33.533041 183.231706,33.520497 183.126032,33.483512 183.031237,33.423942 182.952073,33.344772 182.89251,33.249972 182.855535,33.144295 182.843,33.033041 182.843,31.6025 182.830464,31.491239 182.793484,31.385558 182.733916,31.290755 182.654745,31.211584 182.559942,31.152016 182.45426,31.115036 182.343,31.1025 164.843,31.1025 164.73174,31.089964 164.626058,31.052984 164.531255,30.993416 164.452084,30.914245 164.392516,30.819442 164.355536,30.71376 164.343,30.6025 164.343,29.4095 164.330464,29.29824 164.293484,29.192558 164.233916,29.097755 164.154745,29.018584 164.059942,28.959016 163.95426,28.922036 163.843,28.9095 147.315,28.9095 147.20374,28.922036 147.098058,28.959016 147.003255,29.018584 146.924084,29.097755 146.864516,29.192558 146.827536,29.29824 146.815,29.4095 146.815,30.6025 146.802464,30.71376 146.765484,30.819442 146.705916,30.914245 146.626745,30.993416 146.531942,31.052984 146.42626,31.089964 146.315,31.1025 128.815,31.1025 128.70374,31.115036 128.598058,31.152016 128.503255,31.211584 128.424084,31.290755 128.364516,31.385558 128.327536,31.491239 128.315,31.6025 128.315,35.226514 128.302464,35.337772 128.265486,35.443452 128.205919,35.538254 128.126751,35.617424 128.031951,35.676994 127.926272,35.713975 127.815014,35.726514 91.815,35.727486 91.70374,35.740026 91.59806,35.777008 91.503258,35.836579 91.424089,35.915752 91.364523,36.010557 91.327547,36.116239 91.315014,36.2275 91.316986,108.497491" fill="#e8efeb"/>
+<g fill="none" stroke="#9cb7aa" stroke-width="0.28">
+<path d="M91.3170 108.4975 L91.3150 36.2275 "/>
+<path d="M91.8150 35.7275 L127.8150 35.7265 "/>
+<path d="M128.3150 35.2265 L128.3150 31.6025 "/>
+<path d="M128.8150 31.1025 L146.3150 31.1025 "/>
+<path d="M146.8150 30.6025 L146.8150 29.4095 "/>
+<path d="M147.3150 28.9095 L163.8430 28.9095 "/>
+<path d="M164.3430 29.4095 L164.3430 30.6025 "/>
+<path d="M164.8430 31.1025 L182.3430 31.1025 "/>
+<path d="M182.8430 31.6025 L182.8430 33.0330 "/>
+<path d="M183.3430 33.5330 L200.8424 33.5345 "/>
+<path d="M201.3424 34.0351 L201.3186 53.7269 "/>
+<path d="M221.2530 113.6341 L208.2127 136.5779 "/>
+<path d="M207.5280 136.7639 L192.7775 128.2476 "/>
+<path d="M192.5924 128.1849 L156.2586 123.4280 "/>
+<path d="M155.9186 123.2256 L145.7572 109.2016 "/>
+<path d="M145.3523 108.9950 L91.8170 108.9975 "/>
+<path d="M201.8186 54.2275 L221.0680 54.2275 "/>
+<path d="M221.5680 54.7275 L221.5680 112.9545 "/>
+<path d="M221.5010 113.2045 L221.2530 113.6341 "/>
+<path d="M91.8150 35.7275 A0.5000 0.5000 0.0 0 0 91.3150 36.2275"/>
+<path d="M127.8150 35.7265 A0.5000 0.5000 0.0 0 0 128.3150 35.2265"/>
+<path d="M128.8150 31.1025 A0.5000 0.5000 0.0 0 0 128.3150 31.6025"/>
+<path d="M146.3150 31.1025 A0.5000 0.5000 0.0 0 0 146.8150 30.6025"/>
+<path d="M147.3150 28.9095 A0.5000 0.5000 0.0 0 0 146.8150 29.4095"/>
+<path d="M164.3430 29.4095 A0.5000 0.5000 0.0 0 0 163.8430 28.9095"/>
+<path d="M164.3430 30.6025 A0.5000 0.5000 0.0 0 0 164.8430 31.1025"/>
+<path d="M182.8430 31.6025 A0.5000 0.5000 0.0 0 0 182.3430 31.1025"/>
+<path d="M182.8430 33.0330 A0.5000 0.5000 0.0 0 0 183.3430 33.5330"/>
+<path d="M201.3424 34.0351 A0.5000 0.5000 0.0 0 0 200.8424 33.5345"/>
+<path d="M201.3186 53.7269 A0.5000 0.5000 0.0 0 0 201.8186 54.2275"/>
+<path d="M221.5680 54.7275 A0.5000 0.5000 0.0 0 0 221.0680 54.2275"/>
+<path d="M221.5010 113.2045 A0.5000 0.5000 0.0 0 0 221.5680 112.9545"/>
+<path d="M207.5280 136.7639 A0.5000 0.5000 0.0 0 0 208.2127 136.5779"/>
+<path d="M192.7775 128.2476 A0.5001 0.5001 0.0 0 0 192.5924 128.1849"/>
+<path d="M155.9186 123.2256 A0.5000 0.5000 0.0 0 0 156.2586 123.4280"/>
+<path d="M145.7572 109.2017 A0.5000 0.5000 0.0 0 0 145.3523 108.9950"/>
+<path d="M91.3170 108.4975 A0.5000 0.5000 0.0 0 0 91.8170 108.9975"/>
+</g>
+</g>
+<rect x="113.543" y="63.466" width="16.2" height="15.4" rx="1.6" fill="#f3f6f4" stroke="#d2dfd8" stroke-width="0.22" transform="rotate(0.00 121.643 71.166)"/>
+<text x="121.643" y="71.366" text-anchor="middle" font-size="3.9" font-weight="400" fill="#81958b">&#x27;</text>
+<text x="121.643" y="74.966" text-anchor="middle" font-size="1.65" font-weight="500" fill="#8ea197">hold CTRL</text>
+<rect x="113.543" y="44.965" width="16.2" height="15.4" rx="1.6" fill="#f3f6f4" stroke="#d2dfd8" stroke-width="0.22" transform="rotate(0.00 121.643 52.666)"/>
+<text x="121.643" y="53.766" text-anchor="middle" font-size="2.8" font-weight="400" fill="#81958b">Enter</text>
+<rect x="113.543" y="26.466" width="16.2" height="15.4" rx="1.6" fill="#f3f6f4" stroke="#d2dfd8" stroke-width="0.22" transform="rotate(0.00 121.643 34.166)"/>
+<text x="121.643" y="35.266" text-anchor="middle" font-size="2.8" font-weight="400" fill="#81958b">Bksp</text>
+<rect x="113.543" y="7.966" width="16.2" height="15.4" rx="1.6" fill="#f3f6f4" stroke="#d2dfd8" stroke-width="0.22" transform="rotate(0.00 121.643 15.666)"/>
+<text x="121.643" y="16.766" text-anchor="middle" font-size="3.9" font-weight="400" fill="#81958b">\</text>
+<rect x="95.043" y="63.466" width="16.2" height="15.4" rx="1.6" fill="#ffffff" stroke="#8252ba" stroke-width="0.35" transform="rotate(0.00 103.143 71.166)"/>
+<text x="103.143" y="72.266" text-anchor="middle" font-size="3.9" font-weight="650" fill="#193b32">\</text>
+<rect x="95.043" y="44.965" width="16.2" height="15.4" rx="1.6" fill="#ffffff" stroke="#8252ba" stroke-width="0.35" transform="rotate(0.00 103.143 52.666)"/>
+<text x="103.143" y="53.766" text-anchor="middle" font-size="3.9" font-weight="650" fill="#193b32">&#x27;</text>
+<rect x="95.043" y="26.466" width="16.2" height="15.4" rx="1.6" fill="#f3f6f4" stroke="#d2dfd8" stroke-width="0.22" transform="rotate(0.00 103.143 34.166)"/>
+<text x="103.143" y="35.266" text-anchor="middle" font-size="3.9" font-weight="400" fill="#81958b">P</text>
+<rect x="95.043" y="7.966" width="16.2" height="15.4" rx="1.6" fill="#ffffff" stroke="#8252ba" stroke-width="0.35" transform="rotate(0.00 103.143 15.666)"/>
+<text x="103.143" y="16.766" text-anchor="middle" font-size="2.8" font-weight="650" fill="#193b32">F10</text>
+<rect x="76.543" y="58.841" width="16.2" height="15.4" rx="1.6" fill="#ffffff" stroke="#8252ba" stroke-width="0.35" transform="rotate(0.00 84.643 66.541)"/>
+<text x="84.643" y="67.641" text-anchor="middle" font-size="3.9" font-weight="650" fill="#193b32">]</text>
+<rect x="76.543" y="40.340" width="16.2" height="15.4" rx="1.6" fill="#f3f6f4" stroke="#d2dfd8" stroke-width="0.22" transform="rotate(0.00 84.643 48.041)"/>
+<text x="84.643" y="48.241" text-anchor="middle" font-size="3.9" font-weight="400" fill="#81958b">L</text>
+<text x="84.643" y="51.840" text-anchor="middle" font-size="1.65" font-weight="500" fill="#8ea197">hold Ctrl</text>
+<rect x="76.543" y="21.841" width="16.2" height="15.4" rx="1.6" fill="#f3f6f4" stroke="#d2dfd8" stroke-width="0.22" transform="rotate(0.00 84.643 29.541)"/>
+<text x="84.643" y="30.641" text-anchor="middle" font-size="3.9" font-weight="400" fill="#81958b">O</text>
+<rect x="76.543" y="3.341" width="16.2" height="15.4" rx="1.6" fill="#ffffff" stroke="#8252ba" stroke-width="0.35" transform="rotate(0.00 84.643 11.041)"/>
+<text x="84.643" y="12.141" text-anchor="middle" font-size="3.9" font-weight="650" fill="#193b32">F9</text>
+<rect x="58.043" y="56.528" width="16.2" height="15.4" rx="1.6" fill="#ffffff" stroke="#8252ba" stroke-width="0.35" transform="rotate(0.00 66.143 64.228)"/>
+<text x="66.143" y="65.328" text-anchor="middle" font-size="3.9" font-weight="650" fill="#193b32">[</text>
+<rect x="58.043" y="38.028" width="16.2" height="15.4" rx="1.6" fill="#f3f6f4" stroke="#d2dfd8" stroke-width="0.22" transform="rotate(0.00 66.143 45.728)"/>
+<text x="66.143" y="45.928" text-anchor="middle" font-size="3.9" font-weight="400" fill="#81958b">K</text>
+<text x="66.143" y="49.528" text-anchor="middle" font-size="1.65" font-weight="500" fill="#8ea197">hold Alt</text>
+<rect x="58.043" y="19.528" width="16.2" height="15.4" rx="1.6" fill="#f3f6f4" stroke="#d2dfd8" stroke-width="0.22" transform="rotate(0.00 66.143 27.228)"/>
+<text x="66.143" y="28.328" text-anchor="middle" font-size="3.9" font-weight="400" fill="#81958b">I</text>
+<rect x="58.043" y="1.028" width="16.2" height="15.4" rx="1.6" fill="#ffffff" stroke="#8252ba" stroke-width="0.35" transform="rotate(0.00 66.143 8.728)"/>
+<text x="66.143" y="9.828" text-anchor="middle" font-size="3.9" font-weight="650" fill="#193b32">F8</text>
+<rect x="39.543" y="58.841" width="16.2" height="15.4" rx="1.6" fill="#f3f6f4" stroke="#d2dfd8" stroke-width="0.22" transform="rotate(0.00 47.643 66.541)"/>
+<text x="47.643" y="67.641" text-anchor="middle" font-size="3.9" font-weight="400" fill="#81958b">M</text>
+<rect x="39.543" y="40.340" width="16.2" height="15.4" rx="1.6" fill="#ffffff" stroke="#8252ba" stroke-width="0.35" transform="rotate(0.00 47.643 48.041)"/>
+<text x="47.643" y="49.141" text-anchor="middle" font-size="3.9" font-weight="650" fill="#193b32">−</text>
+<rect x="39.543" y="21.841" width="16.2" height="15.4" rx="1.6" fill="#f3f6f4" stroke="#d2dfd8" stroke-width="0.22" transform="rotate(0.00 47.643 29.541)"/>
+<text x="47.643" y="30.641" text-anchor="middle" font-size="3.9" font-weight="400" fill="#81958b">U</text>
+<rect x="39.543" y="3.341" width="16.2" height="15.4" rx="1.6" fill="#ffffff" stroke="#8252ba" stroke-width="0.35" transform="rotate(0.00 47.643 11.041)"/>
+<text x="47.643" y="12.141" text-anchor="middle" font-size="3.9" font-weight="650" fill="#193b32">F7</text>
+<rect x="21.043" y="61.153" width="16.2" height="15.4" rx="1.6" fill="#f3f6f4" stroke="#d2dfd8" stroke-width="0.22" transform="rotate(0.00 29.143 68.853)"/>
+<text x="29.143" y="69.953" text-anchor="middle" font-size="3.9" font-weight="400" fill="#81958b">N</text>
+<rect x="21.043" y="42.653" width="16.2" height="15.4" rx="1.6" fill="#ffffff" stroke="#8252ba" stroke-width="0.35" transform="rotate(0.00 29.143 50.353)"/>
+<text x="29.143" y="51.453" text-anchor="middle" font-size="3.9" font-weight="650" fill="#193b32">=</text>
+<rect x="21.043" y="24.153" width="16.2" height="15.4" rx="1.6" fill="#f3f6f4" stroke="#d2dfd8" stroke-width="0.22" transform="rotate(0.00 29.143 31.853)"/>
+<text x="29.143" y="32.953" text-anchor="middle" font-size="3.9" font-weight="400" fill="#81958b">Y</text>
+<rect x="21.043" y="5.653" width="16.2" height="15.4" rx="1.6" fill="#ffffff" stroke="#8252ba" stroke-width="0.35" transform="rotate(0.00 29.143 13.353)"/>
+<text x="29.143" y="14.453" text-anchor="middle" font-size="3.9" font-weight="650" fill="#193b32">F6</text>
+<rect x="48.793" y="78.028" width="16.2" height="15.4" rx="1.6" fill="#f3f6f4" stroke="#d2dfd8" stroke-width="0.22" transform="rotate(0.00 56.893 85.728)"/>
+<text x="56.893" y="86.828" text-anchor="middle" font-size="2.8" font-weight="400" fill="#81958b">Alt</text>
+<rect x="28.293" y="80.778" width="16.2" height="15.4" rx="1.6" fill="#f3f6f4" stroke="#d2dfd8" stroke-width="0.22" transform="rotate(-15.00 36.393 88.478)"/>
+<text x="36.393" y="88.678" text-anchor="middle" font-size="2.8" font-weight="400" fill="#81958b">NAVI</text>
+<text x="36.393" y="92.278" text-anchor="middle" font-size="1.65" font-weight="500" fill="#8ea197">hold layer</text>
+<rect x="6.529" y="84.413" width="16.2" height="15.4" rx="1.6" fill="#f3f6f4" stroke="#d2dfd8" stroke-width="0.22" transform="rotate(60.00 14.629 92.113)"/>
+<text x="14.629" y="93.213" text-anchor="middle" font-size="2.8" font-weight="400" fill="#81958b">Space</text>
+</g><rect x="64" y="2225" width="2272" height="970" rx="26" fill="white" stroke="#dce6df" stroke-width="2"/>
+<rect x="100" y="2261" width="76" height="53" rx="12" fill="#276ec0"/>
+<text x="138.000" y="2299.000" text-anchor="middle" font-size="30" font-weight="700" fill="white">2</text>
+<text x="196.000" y="2300.000" text-anchor="start" font-size="38" font-weight="700" fill="#276ec0">CTRL</text>
+<text x="196.000" y="2345.000" text-anchor="start" font-size="25" font-weight="500" fill="#597266">Hold the right apostrophe key · tap that key for &#x27;</text>
+<g transform="translate(125,2380) scale(7.3)">
+<g transform="translate(-91.240014, -28.8345)">
+<polygon points="91.329526,108.608752 91.366509,108.714434 91.426082,108.809236 91.505256,108.888405 91.600063,108.94797 91.705747,108.984946 91.817009,108.997477 145.352317,108.995012 145.469202,109.00886 145.579612,109.04965 145.677427,109.115119 145.757227,109.201641 155.918609,123.225565 155.986215,123.301304 156.067727,123.361825 156.159783,123.404633 156.258589,123.427964 192.592389,128.184877 192.777482,128.247634 207.528025,136.763864 207.63111,136.80878 207.741625,136.829525 207.853981,136.825048 207.962495,136.795578 208.06168,136.742604 208.146519,136.668805 208.212721,136.577913 221.253,113.634096 221.501013,113.204525 221.550963,113.083935 221.568,112.954525 221.568,54.7275 221.555464,54.616239 221.518484,54.510558 221.458916,54.415755 221.379745,54.336584 221.284942,54.277016 221.17926,54.240036 221.068,54.2275 201.818604,54.2275 201.70726,54.214945 201.601507,54.17791 201.506657,54.118254 201.427473,54.038975 201.367933,53.944053 201.331025,53.838256 201.318605,53.726896 201.342395,34.035064 201.329976,33.923709 201.293072,33.817917 201.233537,33.722998 201.154361,33.64372 201.059519,33.584063 200.953774,33.547022 200.842436,33.534459 183.342959,33.533041 183.231706,33.520497 183.126032,33.483512 183.031237,33.423942 182.952073,33.344772 182.89251,33.249972 182.855535,33.144295 182.843,33.033041 182.843,31.6025 182.830464,31.491239 182.793484,31.385558 182.733916,31.290755 182.654745,31.211584 182.559942,31.152016 182.45426,31.115036 182.343,31.1025 164.843,31.1025 164.73174,31.089964 164.626058,31.052984 164.531255,30.993416 164.452084,30.914245 164.392516,30.819442 164.355536,30.71376 164.343,30.6025 164.343,29.4095 164.330464,29.29824 164.293484,29.192558 164.233916,29.097755 164.154745,29.018584 164.059942,28.959016 163.95426,28.922036 163.843,28.9095 147.315,28.9095 147.20374,28.922036 147.098058,28.959016 147.003255,29.018584 146.924084,29.097755 146.864516,29.192558 146.827536,29.29824 146.815,29.4095 146.815,30.6025 146.802464,30.71376 146.765484,30.819442 146.705916,30.914245 146.626745,30.993416 146.531942,31.052984 146.42626,31.089964 146.315,31.1025 128.815,31.1025 128.70374,31.115036 128.598058,31.152016 128.503255,31.211584 128.424084,31.290755 128.364516,31.385558 128.327536,31.491239 128.315,31.6025 128.315,35.226514 128.302464,35.337772 128.265486,35.443452 128.205919,35.538254 128.126751,35.617424 128.031951,35.676994 127.926272,35.713975 127.815014,35.726514 91.815,35.727486 91.70374,35.740026 91.59806,35.777008 91.503258,35.836579 91.424089,35.915752 91.364523,36.010557 91.327547,36.116239 91.315014,36.2275 91.316986,108.497491" fill="#e8efeb"/>
+<g fill="none" stroke="#9cb7aa" stroke-width="0.28">
+<path d="M91.3170 108.4975 L91.3150 36.2275 "/>
+<path d="M91.8150 35.7275 L127.8150 35.7265 "/>
+<path d="M128.3150 35.2265 L128.3150 31.6025 "/>
+<path d="M128.8150 31.1025 L146.3150 31.1025 "/>
+<path d="M146.8150 30.6025 L146.8150 29.4095 "/>
+<path d="M147.3150 28.9095 L163.8430 28.9095 "/>
+<path d="M164.3430 29.4095 L164.3430 30.6025 "/>
+<path d="M164.8430 31.1025 L182.3430 31.1025 "/>
+<path d="M182.8430 31.6025 L182.8430 33.0330 "/>
+<path d="M183.3430 33.5330 L200.8424 33.5345 "/>
+<path d="M201.3424 34.0351 L201.3186 53.7269 "/>
+<path d="M221.2530 113.6341 L208.2127 136.5779 "/>
+<path d="M207.5280 136.7639 L192.7775 128.2476 "/>
+<path d="M192.5924 128.1849 L156.2586 123.4280 "/>
+<path d="M155.9186 123.2256 L145.7572 109.2016 "/>
+<path d="M145.3523 108.9950 L91.8170 108.9975 "/>
+<path d="M201.8186 54.2275 L221.0680 54.2275 "/>
+<path d="M221.5680 54.7275 L221.5680 112.9545 "/>
+<path d="M221.5010 113.2045 L221.2530 113.6341 "/>
+<path d="M91.8150 35.7275 A0.5000 0.5000 0.0 0 0 91.3150 36.2275"/>
+<path d="M127.8150 35.7265 A0.5000 0.5000 0.0 0 0 128.3150 35.2265"/>
+<path d="M128.8150 31.1025 A0.5000 0.5000 0.0 0 0 128.3150 31.6025"/>
+<path d="M146.3150 31.1025 A0.5000 0.5000 0.0 0 0 146.8150 30.6025"/>
+<path d="M147.3150 28.9095 A0.5000 0.5000 0.0 0 0 146.8150 29.4095"/>
+<path d="M164.3430 29.4095 A0.5000 0.5000 0.0 0 0 163.8430 28.9095"/>
+<path d="M164.3430 30.6025 A0.5000 0.5000 0.0 0 0 164.8430 31.1025"/>
+<path d="M182.8430 31.6025 A0.5000 0.5000 0.0 0 0 182.3430 31.1025"/>
+<path d="M182.8430 33.0330 A0.5000 0.5000 0.0 0 0 183.3430 33.5330"/>
+<path d="M201.3424 34.0351 A0.5000 0.5000 0.0 0 0 200.8424 33.5345"/>
+<path d="M201.3186 53.7269 A0.5000 0.5000 0.0 0 0 201.8186 54.2275"/>
+<path d="M221.5680 54.7275 A0.5000 0.5000 0.0 0 0 221.0680 54.2275"/>
+<path d="M221.5010 113.2045 A0.5000 0.5000 0.0 0 0 221.5680 112.9545"/>
+<path d="M207.5280 136.7639 A0.5000 0.5000 0.0 0 0 208.2127 136.5779"/>
+<path d="M192.7775 128.2476 A0.5001 0.5001 0.0 0 0 192.5924 128.1849"/>
+<path d="M155.9186 123.2256 A0.5000 0.5000 0.0 0 0 156.2586 123.4280"/>
+<path d="M145.7572 109.2017 A0.5000 0.5000 0.0 0 0 145.3523 108.9950"/>
+<path d="M91.3170 108.4975 A0.5000 0.5000 0.0 0 0 91.8170 108.9975"/>
+</g>
+</g>
+<rect x="0.660" y="63.466" width="16.2" height="15.4" rx="1.6" fill="#f3f6f4" stroke="#d2dfd8" stroke-width="0.22" transform="rotate(-0.00 8.760 71.166)"/>
+<text x="8.760" y="72.266" text-anchor="middle" font-size="2.8" font-weight="400" fill="#81958b">Shift</text>
+<rect x="0.660" y="44.965" width="16.2" height="15.4" rx="1.6" fill="#f3f6f4" stroke="#d2dfd8" stroke-width="0.22" transform="rotate(-0.00 8.760 52.666)"/>
+<text x="8.760" y="52.866" text-anchor="middle" font-size="2.8" font-weight="400" fill="#81958b">Esc</text>
+<text x="8.760" y="56.465" text-anchor="middle" font-size="1.65" font-weight="500" fill="#8ea197">hold Ctrl</text>
+<rect x="0.660" y="26.466" width="16.2" height="15.4" rx="1.6" fill="#f3f6f4" stroke="#d2dfd8" stroke-width="0.22" transform="rotate(-0.00 8.760 34.166)"/>
+<text x="8.760" y="35.266" text-anchor="middle" font-size="2.8" font-weight="400" fill="#81958b">Tab</text>
+<rect x="0.660" y="7.966" width="16.2" height="15.4" rx="1.6" fill="#ffffff" stroke="#276ec0" stroke-width="0.35" transform="rotate(-0.00 8.760 15.666)"/>
+<text x="8.760" y="15.866" text-anchor="middle" font-size="2.8" font-weight="650" fill="#193b32">Studio</text>
+<text x="8.760" y="19.466" text-anchor="middle" font-size="1.65" font-weight="500" fill="#276ec0">unlock</text>
+<rect x="19.160" y="63.466" width="16.2" height="15.4" rx="1.6" fill="#f3f6f4" stroke="#d2dfd8" stroke-width="0.22" transform="rotate(-0.00 27.260 71.166)"/>
+<text x="27.260" y="72.266" text-anchor="middle" font-size="3.9" font-weight="400" fill="#81958b">Z</text>
+<rect x="19.160" y="44.965" width="16.2" height="15.4" rx="1.6" fill="#ffffff" stroke="#276ec0" stroke-width="0.35" transform="rotate(-0.00 27.260 52.666)"/>
+<text x="27.260" y="53.766" text-anchor="middle" font-size="2.8" font-weight="650" fill="#193b32">Mute</text>
+<rect x="19.160" y="26.466" width="16.2" height="15.4" rx="1.6" fill="#f3f6f4" stroke="#d2dfd8" stroke-width="0.22" transform="rotate(-0.00 27.260 34.166)"/>
+<text x="27.260" y="35.266" text-anchor="middle" font-size="3.9" font-weight="400" fill="#81958b">Q</text>
+<rect x="19.160" y="7.966" width="16.2" height="15.4" rx="1.6" fill="#ffffff" stroke="#276ec0" stroke-width="0.35" transform="rotate(-0.00 27.260 15.666)"/>
+<text x="27.260" y="15.866" text-anchor="middle" font-size="2.8" font-weight="650" fill="#193b32">BT 1</text>
+<text x="27.260" y="19.466" text-anchor="middle" font-size="1.65" font-weight="500" fill="#276ec0">select profile</text>
+<rect x="37.660" y="58.841" width="16.2" height="15.4" rx="1.6" fill="#f3f6f4" stroke="#d2dfd8" stroke-width="0.22" transform="rotate(-0.00 45.760 66.541)"/>
+<text x="45.760" y="67.641" text-anchor="middle" font-size="3.9" font-weight="400" fill="#81958b">X</text>
+<rect x="37.660" y="40.340" width="16.2" height="15.4" rx="1.6" fill="#ffffff" stroke="#276ec0" stroke-width="0.35" transform="rotate(-0.00 45.760 48.041)"/>
+<text x="45.760" y="49.141" text-anchor="middle" font-size="2.8" font-weight="650" fill="#193b32">Vol −</text>
+<rect x="37.660" y="21.841" width="16.2" height="15.4" rx="1.6" fill="#f3f6f4" stroke="#d2dfd8" stroke-width="0.22" transform="rotate(-0.00 45.760 29.541)"/>
+<text x="45.760" y="30.641" text-anchor="middle" font-size="3.9" font-weight="400" fill="#81958b">W</text>
+<rect x="37.660" y="3.341" width="16.2" height="15.4" rx="1.6" fill="#ffffff" stroke="#276ec0" stroke-width="0.35" transform="rotate(-0.00 45.760 11.041)"/>
+<text x="45.760" y="11.241" text-anchor="middle" font-size="2.8" font-weight="650" fill="#193b32">BT 2</text>
+<text x="45.760" y="14.841" text-anchor="middle" font-size="1.65" font-weight="500" fill="#276ec0">select profile</text>
+<rect x="56.160" y="56.528" width="16.2" height="15.4" rx="1.6" fill="#f3f6f4" stroke="#d2dfd8" stroke-width="0.22" transform="rotate(-0.00 64.260 64.228)"/>
+<text x="64.260" y="65.328" text-anchor="middle" font-size="3.9" font-weight="400" fill="#81958b">C</text>
+<rect x="56.160" y="38.028" width="16.2" height="15.4" rx="1.6" fill="#ffffff" stroke="#276ec0" stroke-width="0.35" transform="rotate(-0.00 64.260 45.728)"/>
+<text x="64.260" y="46.828" text-anchor="middle" font-size="2.8" font-weight="650" fill="#193b32">Vol +</text>
+<rect x="56.160" y="19.528" width="16.2" height="15.4" rx="1.6" fill="#f3f6f4" stroke="#d2dfd8" stroke-width="0.22" transform="rotate(-0.00 64.260 27.228)"/>
+<text x="64.260" y="28.328" text-anchor="middle" font-size="3.9" font-weight="400" fill="#81958b">E</text>
+<rect x="56.160" y="1.028" width="16.2" height="15.4" rx="1.6" fill="#ffffff" stroke="#276ec0" stroke-width="0.35" transform="rotate(-0.00 64.260 8.728)"/>
+<text x="64.260" y="8.928" text-anchor="middle" font-size="2.8" font-weight="650" fill="#193b32">BT 3</text>
+<text x="64.260" y="12.528" text-anchor="middle" font-size="1.65" font-weight="500" fill="#276ec0">select profile</text>
+<rect x="74.660" y="58.841" width="16.2" height="15.4" rx="1.6" fill="#f3f6f4" stroke="#d2dfd8" stroke-width="0.22" transform="rotate(-0.00 82.760 66.541)"/>
+<text x="82.760" y="67.641" text-anchor="middle" font-size="3.9" font-weight="400" fill="#81958b">V</text>
+<rect x="74.660" y="40.340" width="16.2" height="15.4" rx="1.6" fill="#ffffff" stroke="#276ec0" stroke-width="0.35" transform="rotate(-0.00 82.760 48.041)"/>
+<text x="82.760" y="49.141" text-anchor="middle" font-size="2.25" font-weight="650" fill="#193b32">Play/Pause</text>
+<rect x="74.660" y="21.841" width="16.2" height="15.4" rx="1.6" fill="#f3f6f4" stroke="#d2dfd8" stroke-width="0.22" transform="rotate(-0.00 82.760 29.541)"/>
+<text x="82.760" y="30.641" text-anchor="middle" font-size="3.9" font-weight="400" fill="#81958b">R</text>
+<rect x="74.660" y="3.341" width="16.2" height="15.4" rx="1.6" fill="#ffffff" stroke="#276ec0" stroke-width="0.35" transform="rotate(-0.00 82.760 11.041)"/>
+<text x="82.760" y="11.241" text-anchor="middle" font-size="2.8" font-weight="650" fill="#193b32">BT 4</text>
+<text x="82.760" y="14.841" text-anchor="middle" font-size="1.65" font-weight="500" fill="#276ec0">select profile</text>
+<rect x="93.160" y="61.153" width="16.2" height="15.4" rx="1.6" fill="#f3f6f4" stroke="#d2dfd8" stroke-width="0.22" transform="rotate(-0.00 101.260 68.853)"/>
+<text x="101.260" y="69.953" text-anchor="middle" font-size="3.9" font-weight="400" fill="#81958b">B</text>
+<rect x="93.160" y="42.653" width="16.2" height="15.4" rx="1.6" fill="#ffffff" stroke="#276ec0" stroke-width="0.35" transform="rotate(-0.00 101.260 50.353)"/>
+<text x="101.260" y="51.453" text-anchor="middle" font-size="2.8" font-weight="650" fill="#193b32">Next</text>
+<rect x="93.160" y="24.153" width="16.2" height="15.4" rx="1.6" fill="#ffffff" stroke="#276ec0" stroke-width="0.35" transform="rotate(-0.00 101.260 31.853)"/>
+<text x="101.260" y="32.953" text-anchor="middle" font-size="2.8" font-weight="650" fill="#193b32">Prev</text>
+<rect x="93.160" y="5.653" width="16.2" height="15.4" rx="1.6" fill="#ffffff" stroke="#276ec0" stroke-width="0.35" transform="rotate(-0.00 101.260 13.353)"/>
+<text x="101.260" y="13.553" text-anchor="middle" font-size="2.8" font-weight="650" fill="#193b32">BT 5</text>
+<text x="101.260" y="17.153" text-anchor="middle" font-size="1.65" font-weight="500" fill="#276ec0">select profile</text>
+<rect x="65.410" y="78.028" width="16.2" height="15.4" rx="1.6" fill="#f3f6f4" stroke="#d2dfd8" stroke-width="0.22" transform="rotate(-0.00 73.510 85.728)"/>
+<text x="73.510" y="86.828" text-anchor="middle" font-size="2.8" font-weight="400" fill="#81958b">Alt</text>
+<rect x="85.910" y="80.778" width="16.2" height="15.4" rx="1.6" fill="#f3f6f4" stroke="#d2dfd8" stroke-width="0.22" transform="rotate(15.00 94.010 88.478)"/>
+<text x="94.010" y="89.578" text-anchor="middle" font-size="2.8" font-weight="400" fill="#81958b">Cmd</text>
+<rect x="107.674" y="84.413" width="16.2" height="15.4" rx="1.6" fill="#f3f6f4" stroke="#d2dfd8" stroke-width="0.22" transform="rotate(-60.00 115.774 92.113)"/>
+<text x="115.774" y="92.313" text-anchor="middle" font-size="2.8" font-weight="400" fill="#81958b">Space</text>
+<text x="115.774" y="95.913" text-anchor="middle" font-size="1.65" font-weight="500" fill="#8ea197">hold EXTRA</text>
+</g>
+<g transform="translate(1275,2380) scale(7.3)">
+<g transform="translate(221.643, -28.8345) scale(-1,1)">
+<polygon points="91.329526,108.608752 91.366509,108.714434 91.426082,108.809236 91.505256,108.888405 91.600063,108.94797 91.705747,108.984946 91.817009,108.997477 145.352317,108.995012 145.469202,109.00886 145.579612,109.04965 145.677427,109.115119 145.757227,109.201641 155.918609,123.225565 155.986215,123.301304 156.067727,123.361825 156.159783,123.404633 156.258589,123.427964 192.592389,128.184877 192.777482,128.247634 207.528025,136.763864 207.63111,136.80878 207.741625,136.829525 207.853981,136.825048 207.962495,136.795578 208.06168,136.742604 208.146519,136.668805 208.212721,136.577913 221.253,113.634096 221.501013,113.204525 221.550963,113.083935 221.568,112.954525 221.568,54.7275 221.555464,54.616239 221.518484,54.510558 221.458916,54.415755 221.379745,54.336584 221.284942,54.277016 221.17926,54.240036 221.068,54.2275 201.818604,54.2275 201.70726,54.214945 201.601507,54.17791 201.506657,54.118254 201.427473,54.038975 201.367933,53.944053 201.331025,53.838256 201.318605,53.726896 201.342395,34.035064 201.329976,33.923709 201.293072,33.817917 201.233537,33.722998 201.154361,33.64372 201.059519,33.584063 200.953774,33.547022 200.842436,33.534459 183.342959,33.533041 183.231706,33.520497 183.126032,33.483512 183.031237,33.423942 182.952073,33.344772 182.89251,33.249972 182.855535,33.144295 182.843,33.033041 182.843,31.6025 182.830464,31.491239 182.793484,31.385558 182.733916,31.290755 182.654745,31.211584 182.559942,31.152016 182.45426,31.115036 182.343,31.1025 164.843,31.1025 164.73174,31.089964 164.626058,31.052984 164.531255,30.993416 164.452084,30.914245 164.392516,30.819442 164.355536,30.71376 164.343,30.6025 164.343,29.4095 164.330464,29.29824 164.293484,29.192558 164.233916,29.097755 164.154745,29.018584 164.059942,28.959016 163.95426,28.922036 163.843,28.9095 147.315,28.9095 147.20374,28.922036 147.098058,28.959016 147.003255,29.018584 146.924084,29.097755 146.864516,29.192558 146.827536,29.29824 146.815,29.4095 146.815,30.6025 146.802464,30.71376 146.765484,30.819442 146.705916,30.914245 146.626745,30.993416 146.531942,31.052984 146.42626,31.089964 146.315,31.1025 128.815,31.1025 128.70374,31.115036 128.598058,31.152016 128.503255,31.211584 128.424084,31.290755 128.364516,31.385558 128.327536,31.491239 128.315,31.6025 128.315,35.226514 128.302464,35.337772 128.265486,35.443452 128.205919,35.538254 128.126751,35.617424 128.031951,35.676994 127.926272,35.713975 127.815014,35.726514 91.815,35.727486 91.70374,35.740026 91.59806,35.777008 91.503258,35.836579 91.424089,35.915752 91.364523,36.010557 91.327547,36.116239 91.315014,36.2275 91.316986,108.497491" fill="#e8efeb"/>
+<g fill="none" stroke="#9cb7aa" stroke-width="0.28">
+<path d="M91.3170 108.4975 L91.3150 36.2275 "/>
+<path d="M91.8150 35.7275 L127.8150 35.7265 "/>
+<path d="M128.3150 35.2265 L128.3150 31.6025 "/>
+<path d="M128.8150 31.1025 L146.3150 31.1025 "/>
+<path d="M146.8150 30.6025 L146.8150 29.4095 "/>
+<path d="M147.3150 28.9095 L163.8430 28.9095 "/>
+<path d="M164.3430 29.4095 L164.3430 30.6025 "/>
+<path d="M164.8430 31.1025 L182.3430 31.1025 "/>
+<path d="M182.8430 31.6025 L182.8430 33.0330 "/>
+<path d="M183.3430 33.5330 L200.8424 33.5345 "/>
+<path d="M201.3424 34.0351 L201.3186 53.7269 "/>
+<path d="M221.2530 113.6341 L208.2127 136.5779 "/>
+<path d="M207.5280 136.7639 L192.7775 128.2476 "/>
+<path d="M192.5924 128.1849 L156.2586 123.4280 "/>
+<path d="M155.9186 123.2256 L145.7572 109.2016 "/>
+<path d="M145.3523 108.9950 L91.8170 108.9975 "/>
+<path d="M201.8186 54.2275 L221.0680 54.2275 "/>
+<path d="M221.5680 54.7275 L221.5680 112.9545 "/>
+<path d="M221.5010 113.2045 L221.2530 113.6341 "/>
+<path d="M91.8150 35.7275 A0.5000 0.5000 0.0 0 0 91.3150 36.2275"/>
+<path d="M127.8150 35.7265 A0.5000 0.5000 0.0 0 0 128.3150 35.2265"/>
+<path d="M128.8150 31.1025 A0.5000 0.5000 0.0 0 0 128.3150 31.6025"/>
+<path d="M146.3150 31.1025 A0.5000 0.5000 0.0 0 0 146.8150 30.6025"/>
+<path d="M147.3150 28.9095 A0.5000 0.5000 0.0 0 0 146.8150 29.4095"/>
+<path d="M164.3430 29.4095 A0.5000 0.5000 0.0 0 0 163.8430 28.9095"/>
+<path d="M164.3430 30.6025 A0.5000 0.5000 0.0 0 0 164.8430 31.1025"/>
+<path d="M182.8430 31.6025 A0.5000 0.5000 0.0 0 0 182.3430 31.1025"/>
+<path d="M182.8430 33.0330 A0.5000 0.5000 0.0 0 0 183.3430 33.5330"/>
+<path d="M201.3424 34.0351 A0.5000 0.5000 0.0 0 0 200.8424 33.5345"/>
+<path d="M201.3186 53.7269 A0.5000 0.5000 0.0 0 0 201.8186 54.2275"/>
+<path d="M221.5680 54.7275 A0.5000 0.5000 0.0 0 0 221.0680 54.2275"/>
+<path d="M221.5010 113.2045 A0.5000 0.5000 0.0 0 0 221.5680 112.9545"/>
+<path d="M207.5280 136.7639 A0.5000 0.5000 0.0 0 0 208.2127 136.5779"/>
+<path d="M192.7775 128.2476 A0.5001 0.5001 0.0 0 0 192.5924 128.1849"/>
+<path d="M155.9186 123.2256 A0.5000 0.5000 0.0 0 0 156.2586 123.4280"/>
+<path d="M145.7572 109.2017 A0.5000 0.5000 0.0 0 0 145.3523 108.9950"/>
+<path d="M91.3170 108.4975 A0.5000 0.5000 0.0 0 0 91.8170 108.9975"/>
+</g>
+</g>
+<rect x="113.543" y="63.466" width="16.2" height="15.4" rx="1.6" fill="#f3f6f4" stroke="#d2dfd8" stroke-width="0.22" transform="rotate(0.00 121.643 71.166)"/>
+<text x="121.643" y="71.366" text-anchor="middle" font-size="3.9" font-weight="400" fill="#81958b">&#x27;</text>
+<text x="121.643" y="74.966" text-anchor="middle" font-size="1.65" font-weight="500" fill="#8ea197">hold CTRL</text>
+<rect x="113.543" y="44.965" width="16.2" height="15.4" rx="1.6" fill="#f3f6f4" stroke="#d2dfd8" stroke-width="0.22" transform="rotate(0.00 121.643 52.666)"/>
+<text x="121.643" y="53.766" text-anchor="middle" font-size="2.8" font-weight="400" fill="#81958b">Enter</text>
+<rect x="113.543" y="26.466" width="16.2" height="15.4" rx="1.6" fill="#ffffff" stroke="#276ec0" stroke-width="0.35" transform="rotate(0.00 121.643 34.166)"/>
+<text x="121.643" y="34.366" text-anchor="middle" font-size="2.25" font-weight="650" fill="#193b32">BT clear</text>
+<text x="121.643" y="37.965" text-anchor="middle" font-size="1.65" font-weight="500" fill="#276ec0">current profile</text>
+<rect x="113.543" y="7.966" width="16.2" height="15.4" rx="1.6" fill="#ffffff" stroke="#276ec0" stroke-width="0.35" transform="rotate(0.00 121.643 15.666)"/>
+<text x="121.643" y="16.766" text-anchor="middle" font-size="2.25" font-weight="650" fill="#193b32">Soft off</text>
+<rect x="95.043" y="63.466" width="16.2" height="15.4" rx="1.6" fill="#f3f6f4" stroke="#d2dfd8" stroke-width="0.22" transform="rotate(0.00 103.143 71.166)"/>
+<text x="103.143" y="72.266" text-anchor="middle" font-size="3.9" font-weight="400" fill="#81958b">/</text>
+<rect x="95.043" y="44.965" width="16.2" height="15.4" rx="1.6" fill="#ffffff" stroke="#276ec0" stroke-width="0.35" transform="rotate(0.00 103.143 52.666)"/>
+<text x="103.143" y="53.766" text-anchor="middle" font-size="3.9" font-weight="650" fill="#193b32">→</text>
+<rect x="95.043" y="26.466" width="16.2" height="15.4" rx="1.6" fill="#f3f6f4" stroke="#d2dfd8" stroke-width="0.22" transform="rotate(0.00 103.143 34.166)"/>
+<text x="103.143" y="35.266" text-anchor="middle" font-size="3.9" font-weight="400" fill="#81958b">P</text>
+<rect x="95.043" y="7.966" width="16.2" height="15.4" rx="1.6" fill="#f3f6f4" stroke="#d2dfd8" stroke-width="0.22" transform="rotate(0.00 103.143 15.666)"/>
+<text x="103.143" y="16.766" text-anchor="middle" font-size="3.9" font-weight="400" fill="#81958b">0</text>
+<rect x="76.543" y="58.841" width="16.2" height="15.4" rx="1.6" fill="#f3f6f4" stroke="#d2dfd8" stroke-width="0.22" transform="rotate(0.00 84.643 66.541)"/>
+<text x="84.643" y="67.641" text-anchor="middle" font-size="3.9" font-weight="400" fill="#81958b">.</text>
+<rect x="76.543" y="40.340" width="16.2" height="15.4" rx="1.6" fill="#ffffff" stroke="#276ec0" stroke-width="0.35" transform="rotate(0.00 84.643 48.041)"/>
+<text x="84.643" y="49.141" text-anchor="middle" font-size="3.9" font-weight="650" fill="#193b32">→</text>
+<rect x="76.543" y="21.841" width="16.2" height="15.4" rx="1.6" fill="#f3f6f4" stroke="#d2dfd8" stroke-width="0.22" transform="rotate(0.00 84.643 29.541)"/>
+<text x="84.643" y="30.641" text-anchor="middle" font-size="3.9" font-weight="400" fill="#81958b">O</text>
+<rect x="76.543" y="3.341" width="16.2" height="15.4" rx="1.6" fill="#f3f6f4" stroke="#d2dfd8" stroke-width="0.22" transform="rotate(0.00 84.643 11.041)"/>
+<text x="84.643" y="12.141" text-anchor="middle" font-size="3.9" font-weight="400" fill="#81958b">9</text>
+<rect x="58.043" y="56.528" width="16.2" height="15.4" rx="1.6" fill="#f3f6f4" stroke="#d2dfd8" stroke-width="0.22" transform="rotate(0.00 66.143 64.228)"/>
+<text x="66.143" y="65.328" text-anchor="middle" font-size="3.9" font-weight="400" fill="#81958b">,</text>
+<rect x="58.043" y="38.028" width="16.2" height="15.4" rx="1.6" fill="#ffffff" stroke="#276ec0" stroke-width="0.35" transform="rotate(0.00 66.143 45.728)"/>
+<text x="66.143" y="46.828" text-anchor="middle" font-size="3.9" font-weight="650" fill="#193b32">↑</text>
+<rect x="58.043" y="19.528" width="16.2" height="15.4" rx="1.6" fill="#f3f6f4" stroke="#d2dfd8" stroke-width="0.22" transform="rotate(0.00 66.143 27.228)"/>
+<text x="66.143" y="28.328" text-anchor="middle" font-size="3.9" font-weight="400" fill="#81958b">I</text>
+<rect x="58.043" y="1.028" width="16.2" height="15.4" rx="1.6" fill="#f3f6f4" stroke="#d2dfd8" stroke-width="0.22" transform="rotate(0.00 66.143 8.728)"/>
+<text x="66.143" y="9.828" text-anchor="middle" font-size="3.9" font-weight="400" fill="#81958b">8</text>
+<rect x="39.543" y="58.841" width="16.2" height="15.4" rx="1.6" fill="#ffffff" stroke="#276ec0" stroke-width="0.35" transform="rotate(0.00 47.643 66.541)"/>
+<text x="47.643" y="67.641" text-anchor="middle" font-size="2.8" font-weight="650" fill="#193b32">PgDn</text>
+<rect x="39.543" y="40.340" width="16.2" height="15.4" rx="1.6" fill="#ffffff" stroke="#276ec0" stroke-width="0.35" transform="rotate(0.00 47.643 48.041)"/>
+<text x="47.643" y="49.141" text-anchor="middle" font-size="3.9" font-weight="650" fill="#193b32">↓</text>
+<rect x="39.543" y="21.841" width="16.2" height="15.4" rx="1.6" fill="#ffffff" stroke="#276ec0" stroke-width="0.35" transform="rotate(0.00 47.643 29.541)"/>
+<text x="47.643" y="30.641" text-anchor="middle" font-size="2.8" font-weight="650" fill="#193b32">PgUp</text>
+<rect x="39.543" y="3.341" width="16.2" height="15.4" rx="1.6" fill="#f3f6f4" stroke="#d2dfd8" stroke-width="0.22" transform="rotate(0.00 47.643 11.041)"/>
+<text x="47.643" y="12.141" text-anchor="middle" font-size="3.9" font-weight="400" fill="#81958b">7</text>
+<rect x="21.043" y="61.153" width="16.2" height="15.4" rx="1.6" fill="#ffffff" stroke="#276ec0" stroke-width="0.35" transform="rotate(0.00 29.143 68.853)"/>
+<text x="29.143" y="69.953" text-anchor="middle" font-size="2.8" font-weight="650" fill="#193b32">End</text>
+<rect x="21.043" y="42.653" width="16.2" height="15.4" rx="1.6" fill="#ffffff" stroke="#276ec0" stroke-width="0.35" transform="rotate(0.00 29.143 50.353)"/>
+<text x="29.143" y="51.453" text-anchor="middle" font-size="3.9" font-weight="650" fill="#193b32">←</text>
+<rect x="21.043" y="24.153" width="16.2" height="15.4" rx="1.6" fill="#ffffff" stroke="#276ec0" stroke-width="0.35" transform="rotate(0.00 29.143 31.853)"/>
+<text x="29.143" y="32.953" text-anchor="middle" font-size="2.8" font-weight="650" fill="#193b32">Home</text>
+<rect x="21.043" y="5.653" width="16.2" height="15.4" rx="1.6" fill="#f3f6f4" stroke="#d2dfd8" stroke-width="0.22" transform="rotate(0.00 29.143 13.353)"/>
+<text x="29.143" y="14.453" text-anchor="middle" font-size="3.9" font-weight="400" fill="#81958b">6</text>
+<rect x="48.793" y="78.028" width="16.2" height="15.4" rx="1.6" fill="#f3f6f4" stroke="#d2dfd8" stroke-width="0.22" transform="rotate(0.00 56.893 85.728)"/>
+<text x="56.893" y="86.828" text-anchor="middle" font-size="2.8" font-weight="400" fill="#81958b">Alt</text>
+<rect x="28.293" y="80.778" width="16.2" height="15.4" rx="1.6" fill="#f3f6f4" stroke="#d2dfd8" stroke-width="0.22" transform="rotate(-15.00 36.393 88.478)"/>
+<text x="36.393" y="88.678" text-anchor="middle" font-size="2.8" font-weight="400" fill="#81958b">NAVI</text>
+<text x="36.393" y="92.278" text-anchor="middle" font-size="1.65" font-weight="500" fill="#8ea197">hold layer</text>
+<rect x="6.529" y="84.413" width="16.2" height="15.4" rx="1.6" fill="#f3f6f4" stroke="#d2dfd8" stroke-width="0.22" transform="rotate(60.00 14.629 92.113)"/>
+<text x="14.629" y="93.213" text-anchor="middle" font-size="2.8" font-weight="400" fill="#81958b">Space</text>
+</g><rect x="64" y="3225" width="2272" height="970" rx="26" fill="white" stroke="#dce6df" stroke-width="2"/>
+<rect x="100" y="3261" width="76" height="53" rx="12" fill="#227d63"/>
+<text x="138.000" y="3299.000" text-anchor="middle" font-size="30" font-weight="700" fill="white">3</text>
+<text x="196.000" y="3300.000" text-anchor="start" font-size="38" font-weight="700" fill="#227d63">NAVI</text>
+<text x="196.000" y="3345.000" text-anchor="start" font-size="25" font-weight="500" fill="#597266">Hold the middle right thumb key</text>
+<g transform="translate(125,3380) scale(7.3)">
+<g transform="translate(-91.240014, -28.8345)">
+<polygon points="91.329526,108.608752 91.366509,108.714434 91.426082,108.809236 91.505256,108.888405 91.600063,108.94797 91.705747,108.984946 91.817009,108.997477 145.352317,108.995012 145.469202,109.00886 145.579612,109.04965 145.677427,109.115119 145.757227,109.201641 155.918609,123.225565 155.986215,123.301304 156.067727,123.361825 156.159783,123.404633 156.258589,123.427964 192.592389,128.184877 192.777482,128.247634 207.528025,136.763864 207.63111,136.80878 207.741625,136.829525 207.853981,136.825048 207.962495,136.795578 208.06168,136.742604 208.146519,136.668805 208.212721,136.577913 221.253,113.634096 221.501013,113.204525 221.550963,113.083935 221.568,112.954525 221.568,54.7275 221.555464,54.616239 221.518484,54.510558 221.458916,54.415755 221.379745,54.336584 221.284942,54.277016 221.17926,54.240036 221.068,54.2275 201.818604,54.2275 201.70726,54.214945 201.601507,54.17791 201.506657,54.118254 201.427473,54.038975 201.367933,53.944053 201.331025,53.838256 201.318605,53.726896 201.342395,34.035064 201.329976,33.923709 201.293072,33.817917 201.233537,33.722998 201.154361,33.64372 201.059519,33.584063 200.953774,33.547022 200.842436,33.534459 183.342959,33.533041 183.231706,33.520497 183.126032,33.483512 183.031237,33.423942 182.952073,33.344772 182.89251,33.249972 182.855535,33.144295 182.843,33.033041 182.843,31.6025 182.830464,31.491239 182.793484,31.385558 182.733916,31.290755 182.654745,31.211584 182.559942,31.152016 182.45426,31.115036 182.343,31.1025 164.843,31.1025 164.73174,31.089964 164.626058,31.052984 164.531255,30.993416 164.452084,30.914245 164.392516,30.819442 164.355536,30.71376 164.343,30.6025 164.343,29.4095 164.330464,29.29824 164.293484,29.192558 164.233916,29.097755 164.154745,29.018584 164.059942,28.959016 163.95426,28.922036 163.843,28.9095 147.315,28.9095 147.20374,28.922036 147.098058,28.959016 147.003255,29.018584 146.924084,29.097755 146.864516,29.192558 146.827536,29.29824 146.815,29.4095 146.815,30.6025 146.802464,30.71376 146.765484,30.819442 146.705916,30.914245 146.626745,30.993416 146.531942,31.052984 146.42626,31.089964 146.315,31.1025 128.815,31.1025 128.70374,31.115036 128.598058,31.152016 128.503255,31.211584 128.424084,31.290755 128.364516,31.385558 128.327536,31.491239 128.315,31.6025 128.315,35.226514 128.302464,35.337772 128.265486,35.443452 128.205919,35.538254 128.126751,35.617424 128.031951,35.676994 127.926272,35.713975 127.815014,35.726514 91.815,35.727486 91.70374,35.740026 91.59806,35.777008 91.503258,35.836579 91.424089,35.915752 91.364523,36.010557 91.327547,36.116239 91.315014,36.2275 91.316986,108.497491" fill="#e8efeb"/>
+<g fill="none" stroke="#9cb7aa" stroke-width="0.28">
+<path d="M91.3170 108.4975 L91.3150 36.2275 "/>
+<path d="M91.8150 35.7275 L127.8150 35.7265 "/>
+<path d="M128.3150 35.2265 L128.3150 31.6025 "/>
+<path d="M128.8150 31.1025 L146.3150 31.1025 "/>
+<path d="M146.8150 30.6025 L146.8150 29.4095 "/>
+<path d="M147.3150 28.9095 L163.8430 28.9095 "/>
+<path d="M164.3430 29.4095 L164.3430 30.6025 "/>
+<path d="M164.8430 31.1025 L182.3430 31.1025 "/>
+<path d="M182.8430 31.6025 L182.8430 33.0330 "/>
+<path d="M183.3430 33.5330 L200.8424 33.5345 "/>
+<path d="M201.3424 34.0351 L201.3186 53.7269 "/>
+<path d="M221.2530 113.6341 L208.2127 136.5779 "/>
+<path d="M207.5280 136.7639 L192.7775 128.2476 "/>
+<path d="M192.5924 128.1849 L156.2586 123.4280 "/>
+<path d="M155.9186 123.2256 L145.7572 109.2016 "/>
+<path d="M145.3523 108.9950 L91.8170 108.9975 "/>
+<path d="M201.8186 54.2275 L221.0680 54.2275 "/>
+<path d="M221.5680 54.7275 L221.5680 112.9545 "/>
+<path d="M221.5010 113.2045 L221.2530 113.6341 "/>
+<path d="M91.8150 35.7275 A0.5000 0.5000 0.0 0 0 91.3150 36.2275"/>
+<path d="M127.8150 35.7265 A0.5000 0.5000 0.0 0 0 128.3150 35.2265"/>
+<path d="M128.8150 31.1025 A0.5000 0.5000 0.0 0 0 128.3150 31.6025"/>
+<path d="M146.3150 31.1025 A0.5000 0.5000 0.0 0 0 146.8150 30.6025"/>
+<path d="M147.3150 28.9095 A0.5000 0.5000 0.0 0 0 146.8150 29.4095"/>
+<path d="M164.3430 29.4095 A0.5000 0.5000 0.0 0 0 163.8430 28.9095"/>
+<path d="M164.3430 30.6025 A0.5000 0.5000 0.0 0 0 164.8430 31.1025"/>
+<path d="M182.8430 31.6025 A0.5000 0.5000 0.0 0 0 182.3430 31.1025"/>
+<path d="M182.8430 33.0330 A0.5000 0.5000 0.0 0 0 183.3430 33.5330"/>
+<path d="M201.3424 34.0351 A0.5000 0.5000 0.0 0 0 200.8424 33.5345"/>
+<path d="M201.3186 53.7269 A0.5000 0.5000 0.0 0 0 201.8186 54.2275"/>
+<path d="M221.5680 54.7275 A0.5000 0.5000 0.0 0 0 221.0680 54.2275"/>
+<path d="M221.5010 113.2045 A0.5000 0.5000 0.0 0 0 221.5680 112.9545"/>
+<path d="M207.5280 136.7639 A0.5000 0.5000 0.0 0 0 208.2127 136.5779"/>
+<path d="M192.7775 128.2476 A0.5001 0.5001 0.0 0 0 192.5924 128.1849"/>
+<path d="M155.9186 123.2256 A0.5000 0.5000 0.0 0 0 156.2586 123.4280"/>
+<path d="M145.7572 109.2017 A0.5000 0.5000 0.0 0 0 145.3523 108.9950"/>
+<path d="M91.3170 108.4975 A0.5000 0.5000 0.0 0 0 91.8170 108.9975"/>
+</g>
+</g>
+<rect x="0.660" y="63.466" width="16.2" height="15.4" rx="1.6" fill="#f3f6f4" stroke="#d2dfd8" stroke-width="0.22" transform="rotate(-0.00 8.760 71.166)"/>
+<text x="8.760" y="72.266" text-anchor="middle" font-size="2.8" font-weight="400" fill="#81958b">Shift</text>
+<rect x="0.660" y="44.965" width="16.2" height="15.4" rx="1.6" fill="#f3f6f4" stroke="#d2dfd8" stroke-width="0.22" transform="rotate(-0.00 8.760 52.666)"/>
+<text x="8.760" y="52.866" text-anchor="middle" font-size="2.8" font-weight="400" fill="#81958b">Esc</text>
+<text x="8.760" y="56.465" text-anchor="middle" font-size="1.65" font-weight="500" fill="#8ea197">hold Ctrl</text>
+<rect x="0.660" y="26.466" width="16.2" height="15.4" rx="1.6" fill="#f3f6f4" stroke="#d2dfd8" stroke-width="0.22" transform="rotate(-0.00 8.760 34.166)"/>
+<text x="8.760" y="35.266" text-anchor="middle" font-size="2.8" font-weight="400" fill="#81958b">Tab</text>
+<rect x="0.660" y="7.966" width="16.2" height="15.4" rx="1.6" fill="#f3f6f4" stroke="#d2dfd8" stroke-width="0.22" transform="rotate(-0.00 8.760 15.666)"/>
+<text x="8.760" y="16.766" text-anchor="middle" font-size="2.25" font-weight="400" fill="#81958b">Esc / `</text>
+<rect x="19.160" y="63.466" width="16.2" height="15.4" rx="1.6" fill="#f3f6f4" stroke="#d2dfd8" stroke-width="0.22" transform="rotate(-0.00 27.260 71.166)"/>
+<text x="27.260" y="72.266" text-anchor="middle" font-size="3.9" font-weight="400" fill="#81958b">Z</text>
+<rect x="19.160" y="44.965" width="16.2" height="15.4" rx="1.6" fill="#f3f6f4" stroke="#d2dfd8" stroke-width="0.22" transform="rotate(-0.00 27.260 52.666)"/>
+<text x="27.260" y="52.866" text-anchor="middle" font-size="3.9" font-weight="400" fill="#81958b">A</text>
+<text x="27.260" y="56.465" text-anchor="middle" font-size="1.65" font-weight="500" fill="#8ea197">hold Shift</text>
+<rect x="19.160" y="26.466" width="16.2" height="15.4" rx="1.6" fill="#f3f6f4" stroke="#d2dfd8" stroke-width="0.22" transform="rotate(-0.00 27.260 34.166)"/>
+<text x="27.260" y="35.266" text-anchor="middle" font-size="3.9" font-weight="400" fill="#81958b">Q</text>
+<rect x="19.160" y="7.966" width="16.2" height="15.4" rx="1.6" fill="#f3f6f4" stroke="#d2dfd8" stroke-width="0.22" transform="rotate(-0.00 27.260 15.666)"/>
+<text x="27.260" y="16.766" text-anchor="middle" font-size="3.9" font-weight="400" fill="#81958b">1</text>
+<rect x="37.660" y="58.841" width="16.2" height="15.4" rx="1.6" fill="#f3f6f4" stroke="#d2dfd8" stroke-width="0.22" transform="rotate(-0.00 45.760 66.541)"/>
+<text x="45.760" y="67.641" text-anchor="middle" font-size="3.9" font-weight="400" fill="#81958b">X</text>
+<rect x="37.660" y="40.340" width="16.2" height="15.4" rx="1.6" fill="#f3f6f4" stroke="#d2dfd8" stroke-width="0.22" transform="rotate(-0.00 45.760 48.041)"/>
+<text x="45.760" y="48.241" text-anchor="middle" font-size="3.9" font-weight="400" fill="#81958b">S</text>
+<text x="45.760" y="51.840" text-anchor="middle" font-size="1.65" font-weight="500" fill="#8ea197">hold Ctrl</text>
+<rect x="37.660" y="21.841" width="16.2" height="15.4" rx="1.6" fill="#f3f6f4" stroke="#d2dfd8" stroke-width="0.22" transform="rotate(-0.00 45.760 29.541)"/>
+<text x="45.760" y="30.641" text-anchor="middle" font-size="3.9" font-weight="400" fill="#81958b">W</text>
+<rect x="37.660" y="3.341" width="16.2" height="15.4" rx="1.6" fill="#f3f6f4" stroke="#d2dfd8" stroke-width="0.22" transform="rotate(-0.00 45.760 11.041)"/>
+<text x="45.760" y="12.141" text-anchor="middle" font-size="3.9" font-weight="400" fill="#81958b">2</text>
+<rect x="56.160" y="56.528" width="16.2" height="15.4" rx="1.6" fill="#f3f6f4" stroke="#d2dfd8" stroke-width="0.22" transform="rotate(-0.00 64.260 64.228)"/>
+<text x="64.260" y="65.328" text-anchor="middle" font-size="3.9" font-weight="400" fill="#81958b">C</text>
+<rect x="56.160" y="38.028" width="16.2" height="15.4" rx="1.6" fill="#f3f6f4" stroke="#d2dfd8" stroke-width="0.22" transform="rotate(-0.00 64.260 45.728)"/>
+<text x="64.260" y="45.928" text-anchor="middle" font-size="3.9" font-weight="400" fill="#81958b">D</text>
+<text x="64.260" y="49.528" text-anchor="middle" font-size="1.65" font-weight="500" fill="#8ea197">hold Alt</text>
+<rect x="56.160" y="19.528" width="16.2" height="15.4" rx="1.6" fill="#f3f6f4" stroke="#d2dfd8" stroke-width="0.22" transform="rotate(-0.00 64.260 27.228)"/>
+<text x="64.260" y="28.328" text-anchor="middle" font-size="3.9" font-weight="400" fill="#81958b">E</text>
+<rect x="56.160" y="1.028" width="16.2" height="15.4" rx="1.6" fill="#f3f6f4" stroke="#d2dfd8" stroke-width="0.22" transform="rotate(-0.00 64.260 8.728)"/>
+<text x="64.260" y="9.828" text-anchor="middle" font-size="3.9" font-weight="400" fill="#81958b">3</text>
+<rect x="74.660" y="58.841" width="16.2" height="15.4" rx="1.6" fill="#f3f6f4" stroke="#d2dfd8" stroke-width="0.22" transform="rotate(-0.00 82.760 66.541)"/>
+<text x="82.760" y="67.641" text-anchor="middle" font-size="3.9" font-weight="400" fill="#81958b">V</text>
+<rect x="74.660" y="40.340" width="16.2" height="15.4" rx="1.6" fill="#f3f6f4" stroke="#d2dfd8" stroke-width="0.22" transform="rotate(-0.00 82.760 48.041)"/>
+<text x="82.760" y="48.241" text-anchor="middle" font-size="3.9" font-weight="400" fill="#81958b">F</text>
+<text x="82.760" y="51.840" text-anchor="middle" font-size="1.65" font-weight="500" fill="#8ea197">hold Cmd</text>
+<rect x="74.660" y="21.841" width="16.2" height="15.4" rx="1.6" fill="#f3f6f4" stroke="#d2dfd8" stroke-width="0.22" transform="rotate(-0.00 82.760 29.541)"/>
+<text x="82.760" y="30.641" text-anchor="middle" font-size="3.9" font-weight="400" fill="#81958b">R</text>
+<rect x="74.660" y="3.341" width="16.2" height="15.4" rx="1.6" fill="#f3f6f4" stroke="#d2dfd8" stroke-width="0.22" transform="rotate(-0.00 82.760 11.041)"/>
+<text x="82.760" y="12.141" text-anchor="middle" font-size="3.9" font-weight="400" fill="#81958b">4</text>
+<rect x="93.160" y="61.153" width="16.2" height="15.4" rx="1.6" fill="#f3f6f4" stroke="#d2dfd8" stroke-width="0.22" transform="rotate(-0.00 101.260 68.853)"/>
+<text x="101.260" y="69.953" text-anchor="middle" font-size="3.9" font-weight="400" fill="#81958b">B</text>
+<rect x="93.160" y="42.653" width="16.2" height="15.4" rx="1.6" fill="#f3f6f4" stroke="#d2dfd8" stroke-width="0.22" transform="rotate(-0.00 101.260 50.353)"/>
+<text x="101.260" y="51.453" text-anchor="middle" font-size="3.9" font-weight="400" fill="#81958b">G</text>
+<rect x="93.160" y="24.153" width="16.2" height="15.4" rx="1.6" fill="#f3f6f4" stroke="#d2dfd8" stroke-width="0.22" transform="rotate(-0.00 101.260 31.853)"/>
+<text x="101.260" y="32.953" text-anchor="middle" font-size="3.9" font-weight="400" fill="#81958b">T</text>
+<rect x="93.160" y="5.653" width="16.2" height="15.4" rx="1.6" fill="#f3f6f4" stroke="#d2dfd8" stroke-width="0.22" transform="rotate(-0.00 101.260 13.353)"/>
+<text x="101.260" y="14.453" text-anchor="middle" font-size="3.9" font-weight="400" fill="#81958b">5</text>
+<rect x="65.410" y="78.028" width="16.2" height="15.4" rx="1.6" fill="#f3f6f4" stroke="#d2dfd8" stroke-width="0.22" transform="rotate(-0.00 73.510 85.728)"/>
+<text x="73.510" y="86.828" text-anchor="middle" font-size="2.8" font-weight="400" fill="#81958b">Alt</text>
+<rect x="85.910" y="80.778" width="16.2" height="15.4" rx="1.6" fill="#f3f6f4" stroke="#d2dfd8" stroke-width="0.22" transform="rotate(15.00 94.010 88.478)"/>
+<text x="94.010" y="89.578" text-anchor="middle" font-size="2.8" font-weight="400" fill="#81958b">Cmd</text>
+<rect x="107.674" y="84.413" width="16.2" height="15.4" rx="1.6" fill="#f3f6f4" stroke="#d2dfd8" stroke-width="0.22" transform="rotate(-60.00 115.774 92.113)"/>
+<text x="115.774" y="92.313" text-anchor="middle" font-size="2.8" font-weight="400" fill="#81958b">Space</text>
+<text x="115.774" y="95.913" text-anchor="middle" font-size="1.65" font-weight="500" fill="#8ea197">hold EXTRA</text>
+</g>
+<g transform="translate(1275,3380) scale(7.3)">
+<g transform="translate(221.643, -28.8345) scale(-1,1)">
+<polygon points="91.329526,108.608752 91.366509,108.714434 91.426082,108.809236 91.505256,108.888405 91.600063,108.94797 91.705747,108.984946 91.817009,108.997477 145.352317,108.995012 145.469202,109.00886 145.579612,109.04965 145.677427,109.115119 145.757227,109.201641 155.918609,123.225565 155.986215,123.301304 156.067727,123.361825 156.159783,123.404633 156.258589,123.427964 192.592389,128.184877 192.777482,128.247634 207.528025,136.763864 207.63111,136.80878 207.741625,136.829525 207.853981,136.825048 207.962495,136.795578 208.06168,136.742604 208.146519,136.668805 208.212721,136.577913 221.253,113.634096 221.501013,113.204525 221.550963,113.083935 221.568,112.954525 221.568,54.7275 221.555464,54.616239 221.518484,54.510558 221.458916,54.415755 221.379745,54.336584 221.284942,54.277016 221.17926,54.240036 221.068,54.2275 201.818604,54.2275 201.70726,54.214945 201.601507,54.17791 201.506657,54.118254 201.427473,54.038975 201.367933,53.944053 201.331025,53.838256 201.318605,53.726896 201.342395,34.035064 201.329976,33.923709 201.293072,33.817917 201.233537,33.722998 201.154361,33.64372 201.059519,33.584063 200.953774,33.547022 200.842436,33.534459 183.342959,33.533041 183.231706,33.520497 183.126032,33.483512 183.031237,33.423942 182.952073,33.344772 182.89251,33.249972 182.855535,33.144295 182.843,33.033041 182.843,31.6025 182.830464,31.491239 182.793484,31.385558 182.733916,31.290755 182.654745,31.211584 182.559942,31.152016 182.45426,31.115036 182.343,31.1025 164.843,31.1025 164.73174,31.089964 164.626058,31.052984 164.531255,30.993416 164.452084,30.914245 164.392516,30.819442 164.355536,30.71376 164.343,30.6025 164.343,29.4095 164.330464,29.29824 164.293484,29.192558 164.233916,29.097755 164.154745,29.018584 164.059942,28.959016 163.95426,28.922036 163.843,28.9095 147.315,28.9095 147.20374,28.922036 147.098058,28.959016 147.003255,29.018584 146.924084,29.097755 146.864516,29.192558 146.827536,29.29824 146.815,29.4095 146.815,30.6025 146.802464,30.71376 146.765484,30.819442 146.705916,30.914245 146.626745,30.993416 146.531942,31.052984 146.42626,31.089964 146.315,31.1025 128.815,31.1025 128.70374,31.115036 128.598058,31.152016 128.503255,31.211584 128.424084,31.290755 128.364516,31.385558 128.327536,31.491239 128.315,31.6025 128.315,35.226514 128.302464,35.337772 128.265486,35.443452 128.205919,35.538254 128.126751,35.617424 128.031951,35.676994 127.926272,35.713975 127.815014,35.726514 91.815,35.727486 91.70374,35.740026 91.59806,35.777008 91.503258,35.836579 91.424089,35.915752 91.364523,36.010557 91.327547,36.116239 91.315014,36.2275 91.316986,108.497491" fill="#e8efeb"/>
+<g fill="none" stroke="#9cb7aa" stroke-width="0.28">
+<path d="M91.3170 108.4975 L91.3150 36.2275 "/>
+<path d="M91.8150 35.7275 L127.8150 35.7265 "/>
+<path d="M128.3150 35.2265 L128.3150 31.6025 "/>
+<path d="M128.8150 31.1025 L146.3150 31.1025 "/>
+<path d="M146.8150 30.6025 L146.8150 29.4095 "/>
+<path d="M147.3150 28.9095 L163.8430 28.9095 "/>
+<path d="M164.3430 29.4095 L164.3430 30.6025 "/>
+<path d="M164.8430 31.1025 L182.3430 31.1025 "/>
+<path d="M182.8430 31.6025 L182.8430 33.0330 "/>
+<path d="M183.3430 33.5330 L200.8424 33.5345 "/>
+<path d="M201.3424 34.0351 L201.3186 53.7269 "/>
+<path d="M221.2530 113.6341 L208.2127 136.5779 "/>
+<path d="M207.5280 136.7639 L192.7775 128.2476 "/>
+<path d="M192.5924 128.1849 L156.2586 123.4280 "/>
+<path d="M155.9186 123.2256 L145.7572 109.2016 "/>
+<path d="M145.3523 108.9950 L91.8170 108.9975 "/>
+<path d="M201.8186 54.2275 L221.0680 54.2275 "/>
+<path d="M221.5680 54.7275 L221.5680 112.9545 "/>
+<path d="M221.5010 113.2045 L221.2530 113.6341 "/>
+<path d="M91.8150 35.7275 A0.5000 0.5000 0.0 0 0 91.3150 36.2275"/>
+<path d="M127.8150 35.7265 A0.5000 0.5000 0.0 0 0 128.3150 35.2265"/>
+<path d="M128.8150 31.1025 A0.5000 0.5000 0.0 0 0 128.3150 31.6025"/>
+<path d="M146.3150 31.1025 A0.5000 0.5000 0.0 0 0 146.8150 30.6025"/>
+<path d="M147.3150 28.9095 A0.5000 0.5000 0.0 0 0 146.8150 29.4095"/>
+<path d="M164.3430 29.4095 A0.5000 0.5000 0.0 0 0 163.8430 28.9095"/>
+<path d="M164.3430 30.6025 A0.5000 0.5000 0.0 0 0 164.8430 31.1025"/>
+<path d="M182.8430 31.6025 A0.5000 0.5000 0.0 0 0 182.3430 31.1025"/>
+<path d="M182.8430 33.0330 A0.5000 0.5000 0.0 0 0 183.3430 33.5330"/>
+<path d="M201.3424 34.0351 A0.5000 0.5000 0.0 0 0 200.8424 33.5345"/>
+<path d="M201.3186 53.7269 A0.5000 0.5000 0.0 0 0 201.8186 54.2275"/>
+<path d="M221.5680 54.7275 A0.5000 0.5000 0.0 0 0 221.0680 54.2275"/>
+<path d="M221.5010 113.2045 A0.5000 0.5000 0.0 0 0 221.5680 112.9545"/>
+<path d="M207.5280 136.7639 A0.5000 0.5000 0.0 0 0 208.2127 136.5779"/>
+<path d="M192.7775 128.2476 A0.5001 0.5001 0.0 0 0 192.5924 128.1849"/>
+<path d="M155.9186 123.2256 A0.5000 0.5000 0.0 0 0 156.2586 123.4280"/>
+<path d="M145.7572 109.2017 A0.5000 0.5000 0.0 0 0 145.3523 108.9950"/>
+<path d="M91.3170 108.4975 A0.5000 0.5000 0.0 0 0 91.8170 108.9975"/>
+</g>
+</g>
+<rect x="113.543" y="63.466" width="16.2" height="15.4" rx="1.6" fill="#f3f6f4" stroke="#d2dfd8" stroke-width="0.22" transform="rotate(0.00 121.643 71.166)"/>
+<text x="121.643" y="71.366" text-anchor="middle" font-size="3.9" font-weight="400" fill="#81958b">&#x27;</text>
+<text x="121.643" y="74.966" text-anchor="middle" font-size="1.65" font-weight="500" fill="#8ea197">hold CTRL</text>
+<rect x="113.543" y="44.965" width="16.2" height="15.4" rx="1.6" fill="#f3f6f4" stroke="#d2dfd8" stroke-width="0.22" transform="rotate(0.00 121.643 52.666)"/>
+<text x="121.643" y="53.766" text-anchor="middle" font-size="2.8" font-weight="400" fill="#81958b">Enter</text>
+<rect x="113.543" y="26.466" width="16.2" height="15.4" rx="1.6" fill="#f3f6f4" stroke="#d2dfd8" stroke-width="0.22" transform="rotate(0.00 121.643 34.166)"/>
+<text x="121.643" y="35.266" text-anchor="middle" font-size="2.8" font-weight="400" fill="#81958b">Bksp</text>
+<rect x="113.543" y="7.966" width="16.2" height="15.4" rx="1.6" fill="#f3f6f4" stroke="#d2dfd8" stroke-width="0.22" transform="rotate(0.00 121.643 15.666)"/>
+<text x="121.643" y="16.766" text-anchor="middle" font-size="3.9" font-weight="400" fill="#81958b">\</text>
+<rect x="95.043" y="63.466" width="16.2" height="15.4" rx="1.6" fill="#f3f6f4" stroke="#d2dfd8" stroke-width="0.22" transform="rotate(0.00 103.143 71.166)"/>
+<text x="103.143" y="72.266" text-anchor="middle" font-size="3.9" font-weight="400" fill="#81958b">/</text>
+<rect x="95.043" y="44.965" width="16.2" height="15.4" rx="1.6" fill="#ffffff" stroke="#227d63" stroke-width="0.35" transform="rotate(0.00 103.143 52.666)"/>
+<text x="103.143" y="53.766" text-anchor="middle" font-size="3.9" font-weight="650" fill="#193b32">→</text>
+<rect x="95.043" y="26.466" width="16.2" height="15.4" rx="1.6" fill="#f3f6f4" stroke="#d2dfd8" stroke-width="0.22" transform="rotate(0.00 103.143 34.166)"/>
+<text x="103.143" y="35.266" text-anchor="middle" font-size="3.9" font-weight="400" fill="#81958b">P</text>
+<rect x="95.043" y="7.966" width="16.2" height="15.4" rx="1.6" fill="#f3f6f4" stroke="#d2dfd8" stroke-width="0.22" transform="rotate(0.00 103.143 15.666)"/>
+<text x="103.143" y="16.766" text-anchor="middle" font-size="3.9" font-weight="400" fill="#81958b">0</text>
+<rect x="76.543" y="58.841" width="16.2" height="15.4" rx="1.6" fill="#f3f6f4" stroke="#d2dfd8" stroke-width="0.22" transform="rotate(0.00 84.643 66.541)"/>
+<text x="84.643" y="67.641" text-anchor="middle" font-size="3.9" font-weight="400" fill="#81958b">.</text>
+<rect x="76.543" y="40.340" width="16.2" height="15.4" rx="1.6" fill="#ffffff" stroke="#227d63" stroke-width="0.35" transform="rotate(0.00 84.643 48.041)"/>
+<text x="84.643" y="49.141" text-anchor="middle" font-size="3.9" font-weight="650" fill="#193b32">→</text>
+<rect x="76.543" y="21.841" width="16.2" height="15.4" rx="1.6" fill="#f3f6f4" stroke="#d2dfd8" stroke-width="0.22" transform="rotate(0.00 84.643 29.541)"/>
+<text x="84.643" y="30.641" text-anchor="middle" font-size="3.9" font-weight="400" fill="#81958b">O</text>
+<rect x="76.543" y="3.341" width="16.2" height="15.4" rx="1.6" fill="#f3f6f4" stroke="#d2dfd8" stroke-width="0.22" transform="rotate(0.00 84.643 11.041)"/>
+<text x="84.643" y="12.141" text-anchor="middle" font-size="3.9" font-weight="400" fill="#81958b">9</text>
+<rect x="58.043" y="56.528" width="16.2" height="15.4" rx="1.6" fill="#f3f6f4" stroke="#d2dfd8" stroke-width="0.22" transform="rotate(0.00 66.143 64.228)"/>
+<text x="66.143" y="65.328" text-anchor="middle" font-size="3.9" font-weight="400" fill="#81958b">,</text>
+<rect x="58.043" y="38.028" width="16.2" height="15.4" rx="1.6" fill="#ffffff" stroke="#227d63" stroke-width="0.35" transform="rotate(0.00 66.143 45.728)"/>
+<text x="66.143" y="46.828" text-anchor="middle" font-size="3.9" font-weight="650" fill="#193b32">↑</text>
+<rect x="58.043" y="19.528" width="16.2" height="15.4" rx="1.6" fill="#f3f6f4" stroke="#d2dfd8" stroke-width="0.22" transform="rotate(0.00 66.143 27.228)"/>
+<text x="66.143" y="28.328" text-anchor="middle" font-size="3.9" font-weight="400" fill="#81958b">I</text>
+<rect x="58.043" y="1.028" width="16.2" height="15.4" rx="1.6" fill="#f3f6f4" stroke="#d2dfd8" stroke-width="0.22" transform="rotate(0.00 66.143 8.728)"/>
+<text x="66.143" y="9.828" text-anchor="middle" font-size="3.9" font-weight="400" fill="#81958b">8</text>
+<rect x="39.543" y="58.841" width="16.2" height="15.4" rx="1.6" fill="#ffffff" stroke="#227d63" stroke-width="0.35" transform="rotate(0.00 47.643 66.541)"/>
+<text x="47.643" y="67.641" text-anchor="middle" font-size="2.8" font-weight="650" fill="#193b32">PgDn</text>
+<rect x="39.543" y="40.340" width="16.2" height="15.4" rx="1.6" fill="#ffffff" stroke="#227d63" stroke-width="0.35" transform="rotate(0.00 47.643 48.041)"/>
+<text x="47.643" y="49.141" text-anchor="middle" font-size="3.9" font-weight="650" fill="#193b32">↓</text>
+<rect x="39.543" y="21.841" width="16.2" height="15.4" rx="1.6" fill="#ffffff" stroke="#227d63" stroke-width="0.35" transform="rotate(0.00 47.643 29.541)"/>
+<text x="47.643" y="30.641" text-anchor="middle" font-size="2.8" font-weight="650" fill="#193b32">PgUp</text>
+<rect x="39.543" y="3.341" width="16.2" height="15.4" rx="1.6" fill="#f3f6f4" stroke="#d2dfd8" stroke-width="0.22" transform="rotate(0.00 47.643 11.041)"/>
+<text x="47.643" y="12.141" text-anchor="middle" font-size="3.9" font-weight="400" fill="#81958b">7</text>
+<rect x="21.043" y="61.153" width="16.2" height="15.4" rx="1.6" fill="#ffffff" stroke="#227d63" stroke-width="0.35" transform="rotate(0.00 29.143 68.853)"/>
+<text x="29.143" y="69.953" text-anchor="middle" font-size="2.8" font-weight="650" fill="#193b32">End</text>
+<rect x="21.043" y="42.653" width="16.2" height="15.4" rx="1.6" fill="#ffffff" stroke="#227d63" stroke-width="0.35" transform="rotate(0.00 29.143 50.353)"/>
+<text x="29.143" y="51.453" text-anchor="middle" font-size="3.9" font-weight="650" fill="#193b32">←</text>
+<rect x="21.043" y="24.153" width="16.2" height="15.4" rx="1.6" fill="#ffffff" stroke="#227d63" stroke-width="0.35" transform="rotate(0.00 29.143 31.853)"/>
+<text x="29.143" y="32.953" text-anchor="middle" font-size="2.8" font-weight="650" fill="#193b32">Home</text>
+<rect x="21.043" y="5.653" width="16.2" height="15.4" rx="1.6" fill="#f3f6f4" stroke="#d2dfd8" stroke-width="0.22" transform="rotate(0.00 29.143 13.353)"/>
+<text x="29.143" y="14.453" text-anchor="middle" font-size="3.9" font-weight="400" fill="#81958b">6</text>
+<rect x="48.793" y="78.028" width="16.2" height="15.4" rx="1.6" fill="#f3f6f4" stroke="#d2dfd8" stroke-width="0.22" transform="rotate(0.00 56.893 85.728)"/>
+<text x="56.893" y="86.828" text-anchor="middle" font-size="2.8" font-weight="400" fill="#81958b">Alt</text>
+<rect x="28.293" y="80.778" width="16.2" height="15.4" rx="1.6" fill="#f3f6f4" stroke="#d2dfd8" stroke-width="0.22" transform="rotate(-15.00 36.393 88.478)"/>
+<text x="36.393" y="88.678" text-anchor="middle" font-size="2.8" font-weight="400" fill="#81958b">NAVI</text>
+<text x="36.393" y="92.278" text-anchor="middle" font-size="1.65" font-weight="500" fill="#8ea197">hold layer</text>
+<rect x="6.529" y="84.413" width="16.2" height="15.4" rx="1.6" fill="#f3f6f4" stroke="#d2dfd8" stroke-width="0.22" transform="rotate(60.00 14.629 92.113)"/>
+<text x="14.629" y="93.213" text-anchor="middle" font-size="2.8" font-weight="400" fill="#81958b">Space</text>
+</g><text x="100.000" y="4290.000" text-anchor="start" font-size="25" font-weight="500" fill="#597266">Gray legends inherit BASE. Colored borders mark layer overrides; green BASE keys have hold actions.</text><text x="100.000" y="4338.000" text-anchor="start" font-size="23" font-weight="500" fill="#597266">Source: compiled ZMK keymap · historical KiCad outline + switch matrix · EXTRA + F/D/S = left/right/middle click.</text></g></svg>

@@ -53,6 +53,11 @@ Bluetooth slots are selected by holding the far-right bottom letter-row key
 (apostrophe on the base layer) and pressing a number key from 1 to 5. Choose an
 unused slot to pair a new host without replacing an existing pairing.
 
+## Layer diagrams
+
+[View all four layers](docs/layers/README.md), including the mouse buttons,
+with PNG/SVG images and a script to regenerate them from compiled firmware.
+
 ## Mouse buttons
 
 On Knuckles TPS43, hold the left thumb Space key to activate EXTRA, then use

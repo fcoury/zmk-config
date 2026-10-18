@@ -1,0 +1,16 @@
+{
+  "firmware_commit": "e2d5f00709c8f5c56e89969ca355f46744d4bbc7",
+  "pcb_commit": "2a7e8daed7337c88100fd3420ae1bdc2f82260e8",
+  "pcb_file": "pcbs/knuckles_wireless.kicad_pcb",
+  "keys_per_half": 27,
+  "layers": [
+    "default_layer",
+    "extra_layer",
+    "ctrl_layer",
+    "navi_layer"
+  ],
+  "bindings_per_layer": 54,
+  "mouse_buttons_included": true,
+  "uf2_sha256": "e8c0dac33b02e25241b327c20ded0b9829b14932bdbea31e290ee4f87e2bfb30",
+  "compiled_dts_sha256": "d596b5da1b3a63c6f7c69377b2899c50e9930c6ccac765e2cca4a96ae35c015a"
+}

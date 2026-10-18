@@ -1,8 +1,8 @@
 # Knuckles branch consolidation plan
 
-Audited 2026-10-18. This is a proposed integration sequence; no branches have
-been merged as part of preparing it. Use a temporary `integration/knuckles`
-branch in each repository, then promote through a reviewed PR to `main`.
+Audited 2026-10-18. The original integration sequence is retained below.
+The user subsequently authorized local merges; see execution status.
+Temporary `integration/knuckles` branches were used in each repository.
 The two repositories have independent branches and release artifacts.
 
 ## Firmware: fcoury/zmk-config
@@ -90,3 +90,34 @@ first prove its sensor on the spare nice!nano, then integrate the verified
 pointing driver. It is not part of this merge. Remove old branches/worktrees
 only after explicit cleanup authorization and verification that useful work
 has been retained.
+
+## Execution status — 2026-10-18
+
+The user authorized merging the eligible work into local main. The firmware
+integration includes TPS43 wake fixes, opt-in idle polling, mouse buttons and
+reproducible layer diagrams. All 15 targets in `build.yaml` passed local builds,
+including both Studio-enabled targets and settings reset. The separate idle
+right build and configuration/UF2 comparison passed. Both resulting right UF2s
+match the earlier mouse-button artifacts byte-for-byte. See
+[integration-validation.json](integration-validation.json) for the matrix and
+artifact hashes. These are local reproductions of the CI matrix, not a hosted
+GitHub Actions run.
+
+The user confirmed that mouse buttons, drag, both halves' keys and touchpad
+movement work after flashing the right half. Idle polling stays default-off;
+long-sleep and battery comparison remain pending. The checker itself does not
+perform hardware tests.
+
+The PCB integration merged `feat/integrated-controller` with refreshed main,
+resolved README, and synchronized only the integrated firmware mouse keymap.
+The existing wake patch already matched. Both spacings rebuilt; all three
+build tests, electrical/source checks and all four routed checks passed.
+Both integrated firmware halves and the custom bootloader rebuilt, and the
+sanitized charge-policy tests passed. PCB validation details and manufacturing
+limits are retained in `hardware/integrated-controller/INTEGRATION.md` in the
+PCB repository. The default remains the nice!nano board at 18.5 mm.
+
+Feature branches and worktrees are retained. Superseded firmware branches,
+unrelated Zeph work and TinyTouch were excluded as planned. No integrated
+hardware was flashed or ordered. Remote publication is separate from these
+local merges.

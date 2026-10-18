@@ -1,0 +1,138 @@
+{
+  "date": "2026-10-18",
+  "validated_source_revision": "83673dc29fc96c11397e9657e9ae49e6aa8733e3",
+  "toolchain_image": "zmkfirmware/zmk-build-arm@sha256:edb1c953438c6f720ddb79c3762f3972013b7fbbaf4fff3592fc869983e7afc5",
+  "matrix": [
+    {
+      "target": {
+        "board": "nice_nano_v2",
+        "shield": "cosmos_left",
+        "snippet": "studio-rpc-usb-uart",
+        "cmake-args": "-DCONFIG_ZMK_STUDIO=y"
+      },
+      "exit_code": 0
+    },
+    {
+      "target": {
+        "board": "nice_nano_v2",
+        "shield": "cosmos_right"
+      },
+      "exit_code": 0
+    },
+    {
+      "target": {
+        "board": "nice_nano_v2",
+        "shield": "corne_left",
+        "snippet": "studio-rpc-usb-uart",
+        "cmake-args": "-DCONFIG_ZMK_STUDIO=y"
+      },
+      "exit_code": 0
+    },
+    {
+      "target": {
+        "board": "nice_nano_v2",
+        "shield": "corne_right"
+      },
+      "exit_code": 0
+    },
+    {
+      "target": {
+        "board": "nice_nano_v2",
+        "shield": "caldera_left"
+      },
+      "exit_code": 0
+    },
+    {
+      "target": {
+        "board": "nice_nano_v2",
+        "shield": "caldera_right"
+      },
+      "exit_code": 0
+    },
+    {
+      "target": {
+        "board": "nice_nano_v2",
+        "shield": "settings_reset"
+      },
+      "exit_code": 0
+    },
+    {
+      "target": {
+        "board": "nice_nano_v2",
+        "shield": "souffle_left"
+      },
+      "exit_code": 0
+    },
+    {
+      "target": {
+        "board": "nice_nano_v2",
+        "shield": "souffle_right"
+      },
+      "exit_code": 0
+    },
+    {
+      "target": {
+        "board": "seeeduino_xiao_ble",
+        "shield": "totem_left"
+      },
+      "exit_code": 0
+    },
+    {
+      "target": {
+        "board": "seeeduino_xiao_ble",
+        "shield": "totem_right"
+      },
+      "exit_code": 0
+    },
+    {
+      "target": {
+        "board": "nice_nano_v2",
+        "shield": "knuckles_left"
+      },
+      "exit_code": 0
+    },
+    {
+      "target": {
+        "board": "nice_nano_v2",
+        "shield": "knuckles_right"
+      },
+      "exit_code": 0
+    },
+    {
+      "target": {
+        "board": "nice_nano_v2",
+        "shield": "knuckles_tps43_left"
+      },
+      "exit_code": 0
+    },
+    {
+      "target": {
+        "board": "nice_nano_v2",
+        "shield": "knuckles_tps43_right"
+      },
+      "exit_code": 0
+    }
+  ],
+  "idle_build_checks": {
+    "normal": {
+      "bytes": 446464,
+      "sha256": "d2f7e5c92393ab2984c63f229fe9dadb48a49712c798a645cd8f07f46da34df1"
+    },
+    "diagnostic": {
+      "bytes": 446976,
+      "sha256": "e8c0dac33b02e25241b327c20ded0b9829b14932bdbea31e290ee4f87e2bfb30"
+    },
+    "configuration_delta": [
+      "CONFIG_KNUCKLES_TPS43_IDLE_POLLING",
+      "CONFIG_KNUCKLES_TPS43_IDLE_POLL_INTERVAL_MS"
+    ],
+    "on_device_tested": false
+  },
+  "device_function_test": {
+    "result": "passed",
+    "evidence": "User confirmed mouse buttons, held drag, both halves keys and touchpad movement after the right-half flash.",
+    "tested_image_sha256": "e8c0dac33b02e25241b327c20ded0b9829b14932bdbea31e290ee4f87e2bfb30"
+  },
+  "idle_polling_default": false,
+  "battery_savings_verified": false
+}

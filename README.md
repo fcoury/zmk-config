@@ -53,6 +53,22 @@ Bluetooth slots are selected by holding the far-right bottom letter-row key
 (apostrophe on the base layer) and pressing a number key from 1 to 5. Choose an
 unused slot to pair a new host without replacing an existing pairing.
 
+## Mouse buttons
+
+On Knuckles TPS43, hold the left thumb Space key to activate EXTRA, then use
+left-hand F for left click, D for right click, or S for middle click. Hold F
+while moving a finger on the right-hand touchpad to drag; release F to drop.
+These keys remain letters on the base layer. The existing touchpad gestures remain available.
+
+The right TPS43 central processes key positions from both halves, so this
+keymap update requires only the right half to be reflashed. It preserves the
+left firmware and Bluetooth bonds. Non-pointing Knuckles builds retain their
+previous transparent EXTRA bindings.
+
+After flashing, test single clicks, right click, middle click and a held drag,
+then confirm F/D/S still type normally after releasing EXTRA. Test over USB
+and Bluetooth. Keep holding EXTRA until the mouse-button key is released.
+
 ## TPS43 idle polling diagnostic
 
 The opt-in right-hand test uses the existing 12 ms polling while ZMK is active,

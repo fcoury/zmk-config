@@ -2,7 +2,7 @@
 
 These diagrams show the TPS43 keymap on the assembled 18.5 mm board, using
 macOS modifier names. Gray keys inherit the base layer. Small lower labels
-show hold actions. The EXTRA layer adds left-hand F/D/S mouse buttons.
+show hold actions. The EXTRA layer adds left-hand F/D/S mouse buttons and G to toggle BT1/BT2.
 
 ![All four layers](knuckles-current-layers.png)
 

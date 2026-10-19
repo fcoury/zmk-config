@@ -91,8 +91,9 @@
 <text x="82.760" y="12.141" text-anchor="middle" font-size="3.9" font-weight="650" fill="#193b32">F4</text>
 <rect x="93.160" y="61.153" width="16.2" height="15.4" rx="1.6" fill="#f3f6f4" stroke="#d2dfd8" stroke-width="0.22" transform="rotate(-0.00 101.260 68.853)"/>
 <text x="101.260" y="69.953" text-anchor="middle" font-size="3.9" font-weight="400" fill="#81958b">B</text>
-<rect x="93.160" y="42.653" width="16.2" height="15.4" rx="1.6" fill="#f3f6f4" stroke="#d2dfd8" stroke-width="0.22" transform="rotate(-0.00 101.260 50.353)"/>
-<text x="101.260" y="51.453" text-anchor="middle" font-size="3.9" font-weight="400" fill="#81958b">G</text>
+<rect x="93.160" y="42.653" width="16.2" height="15.4" rx="1.6" fill="#ffffff" stroke="#8252ba" stroke-width="0.35" transform="rotate(-0.00 101.260 50.353)"/>
+<text x="101.260" y="50.553" text-anchor="middle" font-size="2.25" font-weight="650" fill="#193b32">BT1 ↔ BT2</text>
+<text x="101.260" y="54.153" text-anchor="middle" font-size="1.65" font-weight="500" fill="#8252ba">switch device</text>
 <rect x="93.160" y="24.153" width="16.2" height="15.4" rx="1.6" fill="#f3f6f4" stroke="#d2dfd8" stroke-width="0.22" transform="rotate(-0.00 101.260 31.853)"/>
 <text x="101.260" y="32.953" text-anchor="middle" font-size="3.9" font-weight="400" fill="#81958b">T</text>
 <rect x="93.160" y="5.653" width="16.2" height="15.4" rx="1.6" fill="#ffffff" stroke="#8252ba" stroke-width="0.35" transform="rotate(-0.00 101.260 13.353)"/>

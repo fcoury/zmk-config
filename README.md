@@ -58,6 +58,13 @@ unused slot to pair a new host without replacing an existing pairing.
 [View all four layers](docs/layers/README.md), including the mouse buttons,
 with PNG/SVG images and a script to regenerate them from compiled firmware.
 
+## Escape / grave
+
+The top-left key sends Escape on its own and grave when Shift or Command is
+held. Command is retained, so Command + this key sends Command + grave for
+macOS window cycling. Shift retains its existing behavior: Shift + this key
+sends an unshifted grave. EXTRA + this key is a normal grave key.
+
 ## Mouse buttons
 
 On Knuckles TPS43, hold the left thumb Space key to activate EXTRA, then use

@@ -14,6 +14,11 @@
 #define MOUSE_MIDDLE &trans
 #endif
 
+// Preserve Command when Grave/Escape morphs so macOS receives Cmd+grave.
+&gresc {
+    keep-mods = <(MOD_LGUI | MOD_RGUI)>;
+};
+
 #define A_SHFT &hm LSHIFT A
 #define S_CTRL &hm LCTRL S
 #define D_LALT &hm LALT D

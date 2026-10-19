@@ -41,6 +41,12 @@
 
 / {
         behaviors {
+            bt_toggle: bluetooth_toggle {
+              compatible = "knuckles,behavior-bt-toggle";
+              #binding-cells = <0>;
+              display-name = "BT1 / BT2";
+            };
+
             hm: homerow_mods {
               compatible = "zmk,behavior-hold-tap";
               #binding-cells = <2>;
@@ -73,13 +79,13 @@
 // ------------------------------------------------------------------------------------------------------------
 // |  `    |   F1  |   F2  |   F3  |   F4  |   F5  |          |  F6   |  F7   |  F8   |  F9   |  F10  |       |
 // |       |       |       |       |       |       |          |       |       |       |       |       |       |
-// |       |       | MOUSE3| MOUSE2| MOUSE1|       |          |   =   |   -   |       |       |   '   |       |
+// |       |       | MOUSE3| MOUSE2| MOUSE1| BT TOG|          |   =   |   -   |       |       |   '   |       |
 // |       |       |       |       |       |       |          |       |       |   [   |   ]   |   /   |       |
 // |       |       |       |       |       |       |          |       |       |       |       |       |       |
                         bindings = <
    &kp GRAVE &kp F1  &kp F2  &kp F3  &kp F4   &kp F5           &kp F6    &kp F7     &kp F8     &kp F9    &kp F10   &trans
    &trans    &trans  &trans  &trans  &trans   &trans           &trans    &trans     &trans     &trans    &trans    &trans
-   &trans    &trans  MOUSE_MIDDLE MOUSE_RIGHT MOUSE_LEFT &trans &kp EQUAL &kp MINUS  &trans     &trans    &kp APOS  &trans
+   &trans    &trans  MOUSE_MIDDLE MOUSE_RIGHT MOUSE_LEFT &bt_toggle &kp EQUAL &kp MINUS  &trans     &trans    &kp APOS  &trans
    &trans    &trans  &trans  &trans  &trans   &trans           &trans    &trans     &kp LBKT   &kp RBKT  &kp BSLH  &trans
                              &trans  &trans   &trans           &trans    &trans     &trans
                         >;

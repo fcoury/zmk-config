@@ -58,6 +58,14 @@ unused slot to pair a new host without replacing an existing pairing.
 [View all four layers](docs/layers/README.md), including the mouse buttons,
 with PNG/SVG images and a script to regenerate them from compiled firmware.
 
+## Quick Bluetooth switch
+
+Hold left thumb Space (EXTRA), then tap G to switch between BT1 and BT2.
+The shortcut reads the current profile: BT1 goes to BT2; any other profile goes
+back to BT1. Existing BT1-5 shortcuts and all saved pairings remain available.
+This selects the Bluetooth profile without changing USB/Bluetooth output priority.
+The right TPS43 central handles the shortcut, so only that half needs updating.
+
 ## Escape / grave
 
 The top-left key sends Escape on its own and grave when Shift or Command is

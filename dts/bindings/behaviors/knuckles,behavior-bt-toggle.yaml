@@ -1,0 +1,3 @@
+description: Toggle between the first two Bluetooth host profiles
+compatible: "knuckles,behavior-bt-toggle"
+include: zero_param.yaml

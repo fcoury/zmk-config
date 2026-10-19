@@ -34,6 +34,7 @@ captions=['Typing · small lower legends show the action when held','Hold the le
 def decode(binding):
  name,p=binding
  if name=='kp':return letters[p[0]],''
+ if name=='bt_toggle':return 'BT1 ↔ BT2','switch device'
  if name=='mkp':return {1:'Left click',2:'Right click',4:'Middle click'}[p[0]],'hold to drag' if p[0]==1 else ''
  if name in ['hm','mt']:return letters[p[1]],'hold '+mods[p[0]]
  if name=='lt':return letters[p[1]],'hold '+names[p[0]]
@@ -98,14 +99,14 @@ def panel(layer,y):
 svg='<svg xmlns="http://www.w3.org/2000/svg" width="2400" height="4400" viewBox="0 0 2400 4400"><g font-family="Arial, sans-serif">'+header()
 for layer in range(4):svg+=panel(layer,225+layer*1000)
 svg+=text(100,4290,'Gray legends inherit BASE. Colored borders mark layer overrides; green BASE keys have hold actions.',25,'#597266',anchor='start')
-svg+=text(100,4338,'Source: compiled ZMK keymap · historical KiCad outline + switch matrix · EXTRA + F/D/S = left/right/middle click.',23,'#597266',anchor='start')+'</g></svg>'
+svg+=text(100,4338,'Source: compiled ZMK keymap · historical KiCad outline + switch matrix · EXTRA + F/D/S = mouse buttons; EXTRA + G = BT1 ↔ BT2.',23,'#597266',anchor='start')+'</g></svg>'
 (OUT/'knuckles-current-layers.svg').write_text(svg)
 subprocess.run(['rsvg-convert','--output',str(OUT/'knuckles-current-layers.png'),str(OUT/'knuckles-current-layers.svg')],check=True)
 for layer in range(4):
  svg='<svg xmlns="http://www.w3.org/2000/svg" width="2400" height="1120" viewBox="0 0 2400 1120"><rect width="2400" height="1120" fill="#f8faf8"/><g font-family="Arial, sans-serif">'+text(100,65,'KNUCKLES · '+names[layer],36,weight='700',anchor='start')+panel(layer,100)+'</g></svg>'
  path=OUT/f'{layer}-{names[layer].lower()}.svg';path.write_text(svg)
  subprocess.run(['rsvg-convert','--output',str(path.with_suffix('.png')),str(path)],check=True)
-report={'firmware_commit':subprocess.check_output(['git','-C',str(FW),'rev-parse','HEAD'],text=True).strip(),'pcb_commit':'2a7e8daed7337c88100fd3420ae1bdc2f82260e8','pcb_file':'pcbs/knuckles_wireless.kicad_pcb','keys_per_half':27,'layers':layernames,'bindings_per_layer':54,'mouse_buttons_included':True,'uf2_sha256':hashlib.sha256((options.build_dir/'zephyr/zmk.uf2').read_bytes()).hexdigest(),'compiled_dts_sha256':hashlib.sha256(compiled_path.read_bytes()).hexdigest()}
+report={'firmware_commit':subprocess.check_output(['git','-C',str(FW),'rev-parse','HEAD'],text=True).strip(),'pcb_commit':'2a7e8daed7337c88100fd3420ae1bdc2f82260e8','pcb_file':'pcbs/knuckles_wireless.kicad_pcb','keys_per_half':27,'layers':layernames,'bindings_per_layer':54,'mouse_buttons_included':True,'bt_toggle_included':True,'uf2_sha256':hashlib.sha256((options.build_dir/'zephyr/zmk.uf2').read_bytes()).hexdigest(),'compiled_dts_sha256':hashlib.sha256(compiled_path.read_bytes()).hexdigest()}
 (OUT/'sources.json').write_text(json.dumps(report,indent=2))
 (OUT/'compiled-bindings.json').write_text(json.dumps(dict(zip(layernames,layers)),indent=2))
 

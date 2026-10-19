@@ -38,3 +38,10 @@ if(CONFIG_INPUT_AZOTEQ_IQS5XX)
     endif()
   endforeach()
 endif()
+
+# Key positions from either half are processed by the split central.
+if(CONFIG_DT_HAS_KNUCKLES_BEHAVIOR_BT_TOGGLE_ENABLED AND CONFIG_ZMK_BLE)
+  if(NOT CONFIG_ZMK_SPLIT OR CONFIG_ZMK_SPLIT_ROLE_CENTRAL)
+    target_sources(app PRIVATE src/behavior_bt_toggle.c)
+  endif()
+endif()
